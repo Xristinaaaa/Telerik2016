@@ -5,7 +5,12 @@ function solve() {
             throw new Error();
         }
         if (!(element instanceof HTMLElement)) {
+            throw new Error();
         }
+        if (typeof contents.any != 'string' && typeof contents.any != 'number') {
+            throw new Error();
+        }
+
         element.innerHTML = '';
         var fragment = document.createDocumentFragment();
         for (var i = 0, len = contents.length; i < len; i += 1) {
