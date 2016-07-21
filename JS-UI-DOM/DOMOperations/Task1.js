@@ -1,8 +1,18 @@
+'use strict';
 function solve() {
-  return function(element, contents) {
-      for (var i = 0, len=contents.children.length; i < array.length; i++) {
-          var elem, len=contents.children.lengthent = array[i];
-          
-      }
-  };
+    function result(element, contents) {
+        if (element === undefined || contents === undefined) {
+            throw new Error();
+        }
+        if (!(element instanceof HTMLElement)) {
+        }
+        element.innerHTML = '';
+        var fragment = document.createDocumentFragment();
+        for (var i = 0, len = contents.length; i < len; i += 1) {
+            fragment.innerHTML += contents[i];
+        }
+        element.appendChild(fragment);
+    }
+    return result;
 }
+solve(['']);
