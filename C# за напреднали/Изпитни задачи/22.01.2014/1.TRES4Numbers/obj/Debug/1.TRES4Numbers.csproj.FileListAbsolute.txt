@@ -1,0 +1,9 @@
+D:\Telerik\C# за напреднали\22.01.2014\1.TRES4Numbers\bin\Debug\1.TRES4Numbers.exe.config
+D:\Telerik\C# за напреднали\22.01.2014\1.TRES4Numbers\bin\Debug\1.TRES4Numbers.exe
+D:\Telerik\C# за напреднали\22.01.2014\1.TRES4Numbers\bin\Debug\1.TRES4Numbers.pdb
+D:\Telerik\C# за напреднали\22.01.2014\1.TRES4Numbers\obj\Debug\1.TRES4Numbers.csprojResolveAssemblyReference.cache
+D:\Telerik\C# за напреднали\22.01.2014\1.TRES4Numbers\obj\Debug\1.TRES4Numbers.exe
+D:\Telerik\C# за напреднали\22.01.2014\1.TRES4Numbers\obj\Debug\1.TRES4Numbers.pdb
+D:\Telerik\C# за напреднали\Изпитни задачи\22.01.2014\1.TRES4Numbers\bin\Debug\1.TRES4Numbers.exe.config
+D:\Telerik\C# за напреднали\Изпитни задачи\22.01.2014\1.TRES4Numbers\obj\Debug\1.TRES4Numbers.exe
+D:\Telerik\C# за напреднали\Изпитни задачи\22.01.2014\1.TRES4Numbers\obj\Debug\1.TRES4Numbers.pdb

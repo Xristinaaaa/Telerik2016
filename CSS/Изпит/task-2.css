@@ -1,0 +1,96 @@
+body {
+  font-family: Roboto;
+  font-size: 16px;
+  margin: 0;
+  padding: 0
+}
+#play {
+  float: left;
+  clear: both;
+}
+#side-play {
+  float: left;
+  height: 470px;
+  width: 405px;
+  margin: 0;
+  padding: 5px 10px;
+  background-color: #1A1A1A;
+  color: #B8B8B3;
+}
+#side-play h3 a {
+  text-decoration: none;
+  font-weight: normal;
+  color: #ECEEE3;
+}
+#side-play h3 {
+  padding: 0;
+  margin: 5px 0 0 0;
+}
+.playlist-info i {
+  margin-top: 12px;
+  float: right;
+}
+.controls {
+  margin: 20px 0px;
+  border-bottom: 2px solid #3A3A3A;
+}
+.title-playlist p{
+  font-size: 14px;
+  float: left;
+  color: #6C6B67;
+}
+.title-playlist p a {
+  text-decoration: none;
+  color: #B8B8B3;
+}
+.playlist ol {
+  margin: 0;
+  padding: 0;
+}
+.playlist ol li {
+  padding: 10px;
+}
+.playlist ol li span {
+  font-size: 12px;
+}
+.playlist ol .active-clip {
+background-color: #3A3A3A;
+}
+.playlist ol .active-clip span i {
+  color: #AE3637;
+}
+.playlist ol {
+  list-style-type: none;
+}
+.playlist .video-info {
+  display: inline-block;
+}
+.playlist h5 {
+  font-size: 14px;
+  font-weight: normal;
+  color: #6C6B67;
+  margin: 0;
+  padding: 0;
+}
+.playlist h4 {
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+.title-playlist p a {
+  text-decoration: none;
+  font-weight: normal;
+  color: #B3B8B3;
+}
+.title-playlist p {
+  font-weight: normal;
+  color: #B3B8B3;
+}
+.controls:hover {
+  cursor:pointer;
+}
+.controls:hover i{
+  color: white;
+}

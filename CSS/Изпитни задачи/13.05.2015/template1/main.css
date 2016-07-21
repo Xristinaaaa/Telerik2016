@@ -1,0 +1,87 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Times New Roman";
+  color: #000000;
+}
+ul {
+  list-style-type: none;
+}
+ul li:hover > * {
+  display: inline-block;
+  background-color: #CCCCCC;
+  border-bottom-color: white;
+}
+ul li ul li: hover {
+  font-size: 20px;
+  text-decoration: underline;
+}
+ul li ul li {
+  margin: 20px;
+}
+.avenger:hover > .name {
+  text-decoration: underline;
+}
+.avenger:hover > .preview {
+  display: block;
+}
+.avenger {
+  display: inline-block;
+  float: left;
+}
+.avenger:last-of-type {
+  border-right: 3px solid #000;
+}
+.preview {
+  display: none;
+  position: absolute;
+  left: 40px;
+  top: 50px;
+  width: 595px;
+  border: 3px solid black;
+  border-top: none;
+  background-color: #CCCCCC;
+  padding: 15px;
+  padding-top: 50px;
+}
+.skills:after {
+  display: block !important;
+  clear: both;
+}
+.preview .skills {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+.preview .skills li {
+  font-size: 1.3em;
+  margin-top: 40px;
+}
+.preview .skills li:first-letter {
+  text-transform: uppercase;
+}
+.preview .skills li:hover {
+  text-decoration: underline;
+}
+img {
+  float: left;
+  width: 400px;
+  border: 5px solid white;
+  border-radius: 15px;
+  width:
+}
+.name {
+  font-weight: bolder;
+  background-color: white;
+  border: 3px solid black;
+  border-collapse: collapse;
+  border-right: none;
+  padding: 15px;
+  display: inline-block;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top-left-radius: 10px;
+  margin: 0
+}

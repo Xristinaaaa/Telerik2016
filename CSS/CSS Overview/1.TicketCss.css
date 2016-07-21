@@ -1,0 +1,32 @@
+body {
+  color: #A0A0A0;
+}
+table {
+    background-color: #484848;
+}
+thead {
+  font-size: 20px;
+  text-align: left;
+}
+table td {
+  padding: 7px;
+}
+table tr td:first-child{
+  color: white;
+  font-style: italic;
+}
+a {
+  color: yellow;
+  text-decoration: none;
+}
+span {
+  color: #66FF33;
+  font-size: 30px;
+}
+.support {
+  color: red;
+  font-size: 17px;
+}
+.answered {
+  color: orange;
+}

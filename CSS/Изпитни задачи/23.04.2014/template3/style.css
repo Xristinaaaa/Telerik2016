@@ -1,0 +1,68 @@
+body {
+  font-size: 18px;
+  font-family: Arial;
+}
+
+#root {
+  color:#2AA0BD;
+  width: 610px;
+
+}
+h1 {
+  text-align: center;
+  font-style: italic;
+}
+h2 {
+  text-align: center;
+}
+div .chat-container {
+  border: 1px solid #CCCCCC;
+  border-radius: 8px;
+  width: 300px;
+  height: 500px;
+
+  background: #4AE871; /* Old browsers */
+  background: -moz-linear-gradient(top, #4AE871 0%, #F1FFBC 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F1FFBC), color-stop(100%,#a0d8ef)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #4AE871 0%,#F1FFBC 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #4AE871 0%,#F1FFBC 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #4AE871 0%,#F1FFBC 100%); /* IE10+ */
+  background: linear-gradient(to bottom, #4AE871 0%,#F1FFBC 100%); /* W3C */
+
+}
+#me {
+  float: left;
+}
+.me, .other {
+  text-decoration: none;
+  list-style-type: none;
+  font-weight: none;
+}
+#me .me {
+  float:left;
+}
+.other {
+  float: left;
+}
+strong {
+  font-weight: normal;
+  font-style: italic;
+}
+#other {
+  float: right;
+}
+button, input{
+  background-color: #F3FFC7;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border: 1px solid #CCCCCC;
+  padding: 5px 10px;
+}
+button {
+  color: #4EB0C8;
+
+}
+input {
+  color: #B7B7B7;
+
+}

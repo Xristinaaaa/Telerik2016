@@ -1,0 +1,6 @@
+D:\Telerik\C# за напреднали\Strings\12.ParseUrl\bin\Debug\12.ParseUrl.exe.config
+D:\Telerik\C# за напреднали\Strings\12.ParseUrl\bin\Debug\12.ParseUrl.exe
+D:\Telerik\C# за напреднали\Strings\12.ParseUrl\bin\Debug\12.ParseUrl.pdb
+D:\Telerik\C# за напреднали\Strings\12.ParseUrl\obj\Debug\12.ParseUrl.csprojResolveAssemblyReference.cache
+D:\Telerik\C# за напреднали\Strings\12.ParseUrl\obj\Debug\12.ParseUrl.exe
+D:\Telerik\C# за напреднали\Strings\12.ParseUrl\obj\Debug\12.ParseUrl.pdb

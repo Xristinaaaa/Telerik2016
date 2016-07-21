@@ -1,0 +1,64 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+html, body {
+	font-family: Tahoma, sans-serif;
+	font-size: 14px;
+}
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+#header {
+	background-image: url('images/topnav_divider.png');
+	height: 64px;
+}
+#header h1 {
+	font-size: 28px;
+	float: right;
+	color:#FEFFFF;
+	margin-top: -50px;
+	margin-right: 15px;
+}
+#archive ul {
+	float: right;
+	list-style-type: none;
+	margin-right: 8px;
+	margin-bottom: 0
+}
+#archive ul li {
+	float: left;
+	margin-left: 13px;
+}
+#archive ul li a {
+	font-size: 10px;
+	text-decoration: none;
+	color: #333333;
+}
+#nav ul {
+	list-style-type: none;
+	padding-left: 50px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+#nav ul li {
+	float: left;
+	margin-right: 24px;
+}
+#nav ul li a {
+	font-size: 18px;
+	text-decoration: none;
+	color: #FEFFFF;
+	text-transform: capitalize;
+}
+#content{
+	color: #333333;
+	text-align: justify;
+}
+#content h1 {
+	font-size: 24px;
+}
+.clear {
+	clear: both;
+}

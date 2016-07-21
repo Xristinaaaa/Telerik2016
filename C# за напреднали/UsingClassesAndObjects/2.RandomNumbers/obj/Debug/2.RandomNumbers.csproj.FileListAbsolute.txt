@@ -1,0 +1,5 @@
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\2.RandomNumbers\bin\Debug\2.RandomNumbers.exe.config
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\2.RandomNumbers\bin\Debug\2.RandomNumbers.exe
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\2.RandomNumbers\bin\Debug\2.RandomNumbers.pdb
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\2.RandomNumbers\obj\Debug\2.RandomNumbers.exe
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\2.RandomNumbers\obj\Debug\2.RandomNumbers.pdb

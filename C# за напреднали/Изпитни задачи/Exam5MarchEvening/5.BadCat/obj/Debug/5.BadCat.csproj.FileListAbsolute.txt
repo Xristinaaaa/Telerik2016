@@ -1,0 +1,9 @@
+D:\Telerik\C# за напреднали\Exam5MarchEvening\5.BadCat\bin\Debug\5.BadCat.exe.config
+D:\Telerik\C# за напреднали\Exam5MarchEvening\5.BadCat\bin\Debug\5.BadCat.exe
+D:\Telerik\C# за напреднали\Exam5MarchEvening\5.BadCat\bin\Debug\5.BadCat.pdb
+D:\Telerik\C# за напреднали\Exam5MarchEvening\5.BadCat\obj\Debug\5.BadCat.csprojResolveAssemblyReference.cache
+D:\Telerik\C# за напреднали\Exam5MarchEvening\5.BadCat\obj\Debug\5.BadCat.exe
+D:\Telerik\C# за напреднали\Exam5MarchEvening\5.BadCat\obj\Debug\5.BadCat.pdb
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\5.BadCat\bin\Debug\5.BadCat.exe.config
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\5.BadCat\obj\Debug\5.BadCat.exe
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\5.BadCat\obj\Debug\5.BadCat.pdb

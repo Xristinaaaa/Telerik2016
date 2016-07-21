@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  height: 538px;
+  width: 410px;
+}
+.main {
+  background-color: #EEEEEE;
+  border: none;
+  margin: 0;
+  padding: 1px;
+  border-radius: 10px;
+}
+div {
+  background-color: white;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+header {
+  margin-left: 5px;
+  margin-top: 20px;
+}
+img {
+  float: left;
+  margin-right:20px;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  display: inline-block;
+  clear: both;
+  overflow: auto;
+  padding: 5px
+}
+.button {
+    background-image: url('button.png');
+    color: #ffffff;
+    width: 78px;
+    height: 26px;
+    border: none;
+    cursor: pointer;
+    -moz-transition: opacity 0.2s;
+    -o-transition: opacity 0.2s;
+    -webkit-transition: opacity 0.2s;
+    transition: opacity 0.2s;
+}
+
+.button-small {
+    background-image: url('button.png');
+    color: #ffffff;
+    width: 62px;
+    height: 26px;
+    border: none;
+    cursor: pointer;
+    -moz-transition: opacity 0.2s;
+    -o-transition: opacity 0.2s;
+    -webkit-transition: opacity 0.2s;
+    transition: opacity 0.2s;
+}

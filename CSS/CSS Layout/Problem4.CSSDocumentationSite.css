@@ -1,0 +1,196 @@
+/* CSS document */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body {
+    display: block;
+    width: 1222px;
+    margin: auto;
+    padding: 2px 2px;
+    background: #f1f1f1;
+    border: 2px solid #000;
+    font-family: Verdana, Arial, Tahoma;
+}
+body header img {
+    margin-top: 20px;
+}
+body header nav ul {
+    margin-top: 20px;
+}
+body header nav ul li {
+    list-style: none;
+}
+body header nav ul li a {
+    color: #000;
+    text-decoration: none;
+}
+body header nav ul li a.red {
+    font-weight: bold;
+    text-decoration: none;
+    color: #8f0a08;
+}
+/* ...........................header end ......................................*/
+body maincontent {
+    position: absolute;
+    top: 7px;
+    left: 250px;
+    background: #fff;
+    float: left;
+    height: 730px;
+    border: 2px solid #a8a8a8;
+    margin-top: 2px;
+    padding: 20px 10px;
+}
+
+body maincontent header {
+    border-bottom: 1px solid #9f9f9f;
+}
+
+body maincontent header h1 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 24px;
+}
+
+body maincontent header form {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#prev,#next {
+    width: 140px;
+    border: 1px solid #000;
+    background: #fff;
+    font-size: 18px;
+    padding: 3px 5px;
+}
+
+#prev {
+    text-align: left;
+}
+
+#next {
+    text-align: right;
+}
+
+#heading {
+    width: 100%;
+    background: #808080;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#heading h2 {
+    font-size: 20px;
+    color: #fff;
+    padding-left: 5px;
+}
+
+body maincontent section {
+    margin-bottom: 15px;
+}
+
+body maincontent section article img {
+    float: left;
+    height: 120px;
+    margin-right: 20px;
+    padding-bottom: 10px;
+}
+
+body maincontent section article p {
+    font-weight: bold;
+    padding-top: 10px;
+    width: 720px;
+}
+
+body maincontent section article p a {
+    font-weight: normal;
+    color: #a02e2d;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+
+body maincontent footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px solid #9f9f9f;
+    border-bottom: 2px solid #9f9f9f;
+}
+
+body aside {
+    position: absolute;
+    top: 7px;
+    left: 995px;
+    width: 235px;
+    margin-top: 2px;
+}
+
+body aside > ul {
+    list-style-type: none;
+}
+
+body aside > ul > li {
+    background: #fff;
+    border: 2px solid #a8a8a8;
+    padding-top: 4px;
+    padding-bottom: 9px;
+}
+
+body aside > ul > li > p {
+    text-align: center;
+}
+
+body aside > ul > li > p > a {
+    font-weight: normal;
+    color: #a02e2d;
+}
+
+#siteSearch {
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#siteSearch input {
+    margin-left: -30px;
+    border: 1px solid #a9bdd0;
+}
+
+#siteSearch button {
+    background: #fff;
+    border: 4px solid #6688a6;
+    padding-left: 4px;
+    font-weight: bold;
+}
+
+#headingNav {
+    margin-top: -5px;
+    margin-bottom: 5px;
+    width: 100%;
+    background: #808080;
+}
+
+#headingNav h3 {
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+body aside ul li form {
+    padding: 0 54px;
+}
+#styles {
+    position: relative;
+    display: block;
+    height: 39px;
+    font-size: 18px;
+    color: #5bd2fd;
+    border: 1px solid #8eb4d1;
+    border-radius: 2px;
+    margin-bottom: 5px;
+    padding: 2px 15px;
+    background: url(img/blueButton.gif) 0 0 no-repeat;
+    box-shadow: 2px 2px 2px 2px #ffffff inset;
+}

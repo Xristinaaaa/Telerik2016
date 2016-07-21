@@ -1,0 +1,22 @@
+ul li:hover {
+  color: #969696;
+}
+ul li:hover ul {
+  display: block;
+}
+ul li ul li a {display:block !important;}
+ul li ul li:hover {background-color: none;}
+body header nav ul li:hover > a + ul {
+    display: block;
+}
+ul {
+  list-style-type: none;
+}
+.list {
+  color: black
+}
+.sub {
+  color: #969696;
+  text-decoration: none;
+  display: none;
+}
