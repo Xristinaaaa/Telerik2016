@@ -2,11 +2,11 @@
 function solve() {
     return function result(element, contents) {
         var el;
-        if (element === string) {
-            el=document.getElementById(element);
+        if (typeof element === 'string') {
+            el = document.getElementById(element);
         }
         else if (element instanceof HTMLElement) {
-            el=element;
+            el = element;
         }
         else {
             throw new Error();
@@ -16,7 +16,7 @@ function solve() {
             throw new Error();
         }
 
-        element.innerHTML = ''; 
+        element.innerHTML = '';
         var fragment = document.createDocumentFragment();
         for (var i = 0, len = contents.length; i < len; i += 1) {
             fragment.innerHTML += contents[i];
