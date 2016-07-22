@@ -24,4 +24,4 @@ function solve() {
         el.appendChild(fragment);
     };
 }
-solve(['']);
+module.exports=solve();
