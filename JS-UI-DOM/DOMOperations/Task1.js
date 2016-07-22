@@ -1,11 +1,12 @@
 'use strict';
 function solve() {
     return function result(element, contents) {
+        var el;
         if (element === string) {
-            element=document.getElementById(element);
+            el=document.getElementById(element);
         }
         else if (element instanceof HTMLElement) {
-            element=element;
+            el=element;
         }
         else {
             throw new Error();
@@ -20,7 +21,7 @@ function solve() {
         for (var i = 0, len = contents.length; i < len; i += 1) {
             fragment.innerHTML += contents[i];
         }
-        element.appendChild(fragment);
-    }
+        el.appendChild(fragment);
+    };
 }
 solve(['']);
