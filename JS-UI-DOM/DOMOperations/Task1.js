@@ -1,23 +1,26 @@
 'use strict';
 function solve() {
-    function result(element, contents) {
-        if (element === undefined || contents === undefined) {
-            throw new Error();
+    return function result(element, contents) {
+        if (element === string) {
+            element=document.getElementById(element);
         }
-        if (!(element instanceof HTMLElement)) {
-            throw new Error();
+        else if (element instanceof HTMLElement) {
+            element=element;
         }
-        if (typeof contents.any != 'string' && typeof contents.any != 'number') {
+        else {
             throw new Error();
         }
 
-        element.innerHTML = '';
+        if (!contents || (typeof contents.any != 'string' && typeof contents.any != 'number')) {
+            throw new Error();
+        }
+
+        element.innerHTML = ''; 
         var fragment = document.createDocumentFragment();
         for (var i = 0, len = contents.length; i < len; i += 1) {
             fragment.innerHTML += contents[i];
         }
         element.appendChild(fragment);
     }
-    return result;
 }
 solve(['']);
