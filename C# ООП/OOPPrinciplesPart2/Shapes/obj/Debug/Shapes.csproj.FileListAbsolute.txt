@@ -4,3 +4,6 @@ D:\Telerik\C# ООП\OOPPrinciplesPart2\Shapes\bin\Debug\Shapes.pdb
 D:\Telerik\C# ООП\OOPPrinciplesPart2\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
 D:\Telerik\C# ООП\OOPPrinciplesPart2\Shapes\obj\Debug\Shapes.exe
 D:\Telerik\C# ООП\OOPPrinciplesPart2\Shapes\obj\Debug\Shapes.pdb
+D:\Telerik2016\C# ООП\OOPPrinciplesPart2\Shapes\bin\Debug\Shapes.exe.config
+D:\Telerik2016\C# ООП\OOPPrinciplesPart2\Shapes\obj\Debug\Shapes.exe
+D:\Telerik2016\C# ООП\OOPPrinciplesPart2\Shapes\obj\Debug\Shapes.pdb
