@@ -5,6 +5,7 @@
     using Logic.Creatures;
     using System;
 
+
     public class ExtendCreaturesFactory : CreaturesFactory
     {
         public override Creature CreateCreature(string name)
