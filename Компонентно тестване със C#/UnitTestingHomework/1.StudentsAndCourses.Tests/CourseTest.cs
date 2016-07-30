@@ -1,42 +1,39 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
+using NUnit.Framework;
 
 namespace _1.StudentsAndCourses.Tests
 {
-    [TestClass]
+    [TestFixture]
     public class CourseTest
     {
-        [TestMethod]
-        public void Course_CheckList_ShouldThrowIfNull()
+        [Test]
+        public void Course_CheckList_CheckCourse()
         {
             var course = new Course();
             Assert.IsNotNull(course);
         }
 
-        [TestMethod]
-        public void Course_StudentsCount_ShouldThrowIfOutOfRange()
+        [Test]
+        public void Course_StudentsCount_CheckIfCountIsValid()
         {
             var course = new Course();
+            course.Join(new Student("Ivan"));
             Assert.IsTrue(course.NumberOfStudents>0 && course.NumberOfStudents <= 30);
         }
 
-        [TestMethod]
+        [Test]
         public void Course_JoinStudentsCorrectly_ShouldThrow()
         {
             var course = new Course();
-            var name = "Kalin";
-            course.Join(new Student(name));
-            Assert.IsTrue(course.NumberOfStudents <= 30);
+            Assert.Throws<Exception>(() => course.Join(new Student("Kalin")));
         }
 
-        [TestMethod]
+        [Test]
         public void Course_RemoveStudentsCorrectly_ShouldThrow()
         {
             var course = new Course();
-            var name = "Ivan";
-            course.Leave(new Student(name));
-            Assert.IsTrue(course.NumberOfStudents > 0);
+            Assert.Throws<Exception>(() => course.Leave(new Student("Ivan")));
         }
     }
 }

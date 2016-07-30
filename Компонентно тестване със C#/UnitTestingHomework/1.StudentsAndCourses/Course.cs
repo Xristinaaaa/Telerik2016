@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace _1.StudentsAndCourses
 {
-    public class Course 
+    public class Course
     {
         private ICollection<Student> students;
 
@@ -18,9 +18,9 @@ namespace _1.StudentsAndCourses
             {
                 return new List<Student>(students);
             }
-            set
+            private set
             {
-                if (this.students.Count>=30)
+                if (value.Count>=30)
                 {
                     throw new IndexOutOfRangeException("Students should be less than 30!");
                 }
@@ -43,6 +43,7 @@ namespace _1.StudentsAndCourses
             }
             this.students.Add(newStudent);
         }
+
         public void Leave(Student studentToLeave)
         {
             if (this.students.Count==0)

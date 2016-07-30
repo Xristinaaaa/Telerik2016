@@ -6,3 +6,4 @@ D:\Telerik2016\Компонентно тестване със C#\UnitTestingHome
 D:\Telerik2016\Компонентно тестване със C#\UnitTestingHomework\1.StudentsAndCourses\bin\Debug\nunit.framework.xml
 D:\Telerik2016\Компонентно тестване със C#\UnitTestingHomework\1.StudentsAndCourses\obj\Debug\1.StudentsAndCourses.exe
 D:\Telerik2016\Компонентно тестване със C#\UnitTestingHomework\1.StudentsAndCourses\obj\Debug\1.StudentsAndCourses.pdb
+D:\Telerik2016\Компонентно тестване със C#\UnitTestingHomework\1.StudentsAndCourses\obj\Debug\1.StudentsAndCourses.csprojResolveAssemblyReference.cache
