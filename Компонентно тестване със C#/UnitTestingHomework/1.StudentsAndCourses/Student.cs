@@ -5,7 +5,7 @@ namespace _1.StudentsAndCourses
     public class Student
     {
         private string name;
-        private int uniqueNumber;
+        private int uniqueNumber=10001;
 
         public Student(string name)
         {

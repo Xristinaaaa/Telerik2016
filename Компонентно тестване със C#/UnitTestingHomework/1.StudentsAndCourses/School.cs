@@ -37,17 +37,14 @@ namespace _1.StudentsAndCourses
 
         public void AddCourse(Course courseToAdd)
         {
-            if (courseToAdd.NumberOfStudents>0 && courseToAdd.NumberOfStudents<=30)
-            {
-                courses.Add(courseToAdd);
-            }
+             this.courses.Add(courseToAdd);     
         }
 
         public void RemoveCourse(Course courseToRemove)
         {
             if (NumberOfCourses!=0 && courses.Contains(courseToRemove))
             {
-                courses.Remove(courseToRemove);
+                this.courses.Remove(courseToRemove);
             }
         }
     }

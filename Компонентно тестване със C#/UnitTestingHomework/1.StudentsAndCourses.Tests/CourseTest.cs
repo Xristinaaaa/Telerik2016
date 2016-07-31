@@ -26,7 +26,11 @@ namespace _1.StudentsAndCourses.Tests
         public void Course_JoinStudentsCorrectly_ShouldThrow()
         {
             var course = new Course();
-            Assert.Throws<Exception>(() => course.Join(new Student("Kalin")));
+            for (int i = 0; i < 30; i++)
+            {
+                course.Join(new Student("Gosho"));
+            }
+            Assert.Throws<IndexOutOfRangeException>(() => course.Join(new Student("Kalin")));
         }
 
         [Test]

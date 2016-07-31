@@ -30,14 +30,18 @@ namespace _1.StudentsAndCourses.Tests
         public void School_AddingCourses_CheckIfCorrect()
         {
             var school = new School();
-            Assert.Throws<Exception>(() => school.AddCourse(new Course()));
+            school.AddCourse(new Course());
+            Assert.AreEqual(1, school.NumberOfCourses);
         }
 
         [Test]
         public void School_RemovingCourses_CheckIfCorrect()
         {
             var school = new School();
-            Assert.Throws<Exception>(() => school.RemoveCourse(new Course()));
+            var course = new Course();
+            school.AddCourse(course);
+            school.RemoveCourse(course);
+            Assert.AreEqual(0, school.NumberOfCourses);
         }
     }
 }
