@@ -9,7 +9,7 @@ function solve() {
         '<tr>'+
           '<th>#</th>'+
             '{{#each headers}}'+
-              '<th>{{this}}</th'+
+              '<th>{{this}}</th>'+
             '{{/each}}'+
         '</tr'+
       '</thead>'+
