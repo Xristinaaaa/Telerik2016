@@ -1,6 +1,6 @@
 /* globals $ */
 
-//function solve() {
+function solve() {
 $.fn.gallery = function (columns) {
   columns = columns || 4;
 
@@ -83,12 +83,12 @@ $.fn.gallery = function (columns) {
   }
   function getPreviousIndex(index) {
     index--;
-    if (index < 0) {
+    if (index < 1) {
       index = $imageContainers.length;
     }
     return index;
   }
   return this;
 };
-//}
+}
 module.exports = solve;

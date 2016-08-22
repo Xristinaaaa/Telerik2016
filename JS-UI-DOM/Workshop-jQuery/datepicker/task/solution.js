@@ -12,7 +12,7 @@ $.fn.datepicker = function () {
     };
 
     Data.prototype.getMonthName = function () {
-        return months[this.getmonth()];
+        return months[this.getMonth()];
     };
     Data.prototype.getPreviousMonthName = function () {
         if (this.getMonth() > 0) {
@@ -83,8 +83,7 @@ $.fn.datepicker = function () {
     $picker.append(currentDate);
 
     $datePickerWrapper.append($picker);
-    $datePickerWrapper.append($result);
-
+    
     function createCalendar(year, month) {
         $calendar.html('');
         var dateNow = new Date(year, month, 1);
