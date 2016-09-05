@@ -19,6 +19,7 @@ namespace _4.KotTakoa
                 lines[i] = Console.ReadLine();
 
             }
+
             for (int i = 0; i < n; i++)
             {
                 if (lines[i]=="/")
@@ -28,6 +29,7 @@ namespace _4.KotTakoa
                 var name = lines[i].Split(new[] { ' ', ';', '{','}','(',')' }, StringSplitOptions.RemoveEmptyEntries);
 
             }
+
             for (int i = 0; i < n; i++)
             {
                 Console.Write(lines[i]);

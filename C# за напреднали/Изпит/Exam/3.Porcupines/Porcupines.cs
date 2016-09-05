@@ -15,7 +15,7 @@ namespace _3.Porcupines
 
             for (int i = 0; i < totalRows; i++)
             {
-                for (int i = 0; i < columns; i++)
+                for (int j= 0; j < columns; j++)
                 {
 
                 }
@@ -30,6 +30,7 @@ namespace _3.Porcupines
             while(true)
             {
                 var direction = Console.ReadLine().Split(' ');
+
                 if (direction[0] == "E")
                 {
                     break;
@@ -39,10 +40,6 @@ namespace _3.Porcupines
                     switch (direction[1])
                     {
                         case "T":
-                            if (direction[3]>rabbit[2])
-                            {
-
-                            }
                             break;
                         case "R":
                             break;

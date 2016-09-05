@@ -20,6 +20,7 @@ namespace _2.Kitty
             int jumpsBeforeDeadlock = 0;
 
             char[] symbols = new char[input.Length];
+
             for (int i = 0; i < symbols.Length; i++)
             {
                 symbols[i] = input[i];

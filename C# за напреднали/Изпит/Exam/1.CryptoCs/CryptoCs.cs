@@ -11,12 +11,15 @@ namespace _1.CryptoCs
         static BigInteger Convert26to10(string input)
         {
             BigInteger result = 0;
+
             foreach (var digit in input)
             {
                 result = (digit - 'a') + result*26;
             }
+
             return result;
         }
+
         static BigInteger Convert7to10(string input)
         {
             //BigInteger sum = 0;
@@ -26,16 +29,21 @@ namespace _1.CryptoCs
             //    sum = (digit - 'a') + sum * 7;
             //}
             //return sum;
+
             string characters = "0123456";
             int cbase = 7;
             BigInteger results = 0;
+
             foreach (char digit in input.ToString().ToArray())
             {
                 results = (cbase * results) + characters.IndexOf(digit);
             }
+
             return results;
         }
+
         const string NineDigits = "012345678";
+
         static string Convert10to9(BigInteger input)
         {
             //BigInteger sum = 0;
@@ -47,6 +55,7 @@ namespace _1.CryptoCs
             //return sum;
 
             string result = string.Empty;
+
             do
             {
                 BigInteger value = input % 9;
@@ -54,6 +63,7 @@ namespace _1.CryptoCs
                 input /= 9;
 
             } while (input != 0);
+
             return result;
 
         }
@@ -82,7 +92,6 @@ namespace _1.CryptoCs
             }
 
             Console.WriteLine(Convert10to9(sum));
-
         }
     }
 }
