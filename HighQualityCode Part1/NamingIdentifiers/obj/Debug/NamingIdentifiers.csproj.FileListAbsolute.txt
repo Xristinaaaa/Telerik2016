@@ -1,0 +1,4 @@
+D:\Telerik2016\HighQualityCode Part1\NamingIdentifiers\bin\Debug\Minesweeper.exe
+D:\Telerik2016\HighQualityCode Part1\NamingIdentifiers\bin\Debug\Minesweeper.pdb
+D:\Telerik2016\HighQualityCode Part1\NamingIdentifiers\obj\Debug\Minesweeper.exe
+D:\Telerik2016\HighQualityCode Part1\NamingIdentifiers\obj\Debug\Minesweeper.pdb

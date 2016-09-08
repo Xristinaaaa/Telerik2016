@@ -1,0 +1,3 @@
+D:\Telerik2016\HighQualityCode Part1\VariablesDataExpressionsConstants\Homework\Chef\bin\Debug\Chef.exe.config
+D:\Telerik2016\HighQualityCode Part1\ControlFlowConditionalStatementsLoops\Homework\Chef\bin\Debug\Chef.exe.config
+D:\Telerik2016\HighQualityCode Part1\ControlFlowConditionalStatementsLoops\Homework\Chef\obj\Debug\Chef.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\Telerik2016\HighQualityCode Part1\VariablesDataExpressionsConstants\Variables\Size\bin\Debug\Size.exe.config
+D:\Telerik2016\HighQualityCode Part1\VariablesDataExpressionsConstants\Variables\Size\obj\Debug\Size.csprojResolveAssemblyReference.cache

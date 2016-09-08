@@ -1,0 +1,2 @@
+D:\Telerik2016\HighQualityCode Part1\Formatting\Events\Events\bin\Debug\Events.exe.config
+D:\Telerik2016\HighQualityCode Part1\Formatting\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
