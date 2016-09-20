@@ -21,7 +21,7 @@ function solve() {
         constructor(productType, name, price) {
             this.productType = productType;
             this.name = name;
-            this.price = price;
+            this.price = +(price);
         }
 
         get productType() {
@@ -115,53 +115,35 @@ function solve() {
         }
 
         getInfo() {
-            if (this.products.length === 0) {
-                return {
-                    totalPrice: 0,
-                    products: []
-                };
-            }
-
-            let nameTypes={};            
-            this.products.forEach(item => {
-                nameTypes[item.name] = true;
-            });
-
-            let uniqueProductsInfo = [];
-            let itemToAdd;
-
-			Object.keys(nameTypes).each(function (name) {
-                let count=1;
-                let tempPrice;
-                for(var i=0, len=this.products.length; i<len; i+=1){
-                    if(this.products[i].name===name){
-                        tempPrice=this.products[i].price;
-                        count+=1;
-                    }
+            let allProducts = {};
+            this.products.forEach(pr => {
+                if (!allProducts[pr.name]) {
+                    allProducts[pr.name] = {
+                        "name": pr.name,
+                        "totalPrice": 0,
+                        "quantity": 0
+                    };
                 }
 
-                itemToAdd = {
-                    name: name,
-                    totalPrice: tempPrice,
-                    quantity: count
-                };
-
-                uniqueProductsInfo.push(itemToAdd);
-                count=1;
-                tempPrice=0;
+                allProducts[pr.name].totalPrice += pr.price;
+                allProducts[pr.name].quantity += 1;
             });
 
-            let sumOfProducts = this.products.showCost();
+            let products = Object.keys(allProducts)
+                .sort((k1, k2) => k1.localeCompare(k2))
+                .map(key => allProducts[key]);
 
+            let totalPrice = products.reduce((tp, pr) => tp + pr.totalPrice, 0);
             return {
-                totalPrice: sumOfProducts,
-                products: uniqueProductsInfo
+                products,
+                totalPrice
             };
         }
     }
 
     return {
-        Product, ShoppingCart
+        Product, 
+        ShoppingCart
     };
 }
 
