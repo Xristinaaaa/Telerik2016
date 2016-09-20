@@ -1,0 +1,5 @@
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\4.TriangleSurfaceBySideAndLatitude\bin\Debug\4.TriangleSurfaceBySideAndLatitude.exe.config
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\4.TriangleSurfaceBySideAndLatitude\bin\Debug\4.TriangleSurfaceBySideAndLatitude.exe
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\4.TriangleSurfaceBySideAndLatitude\bin\Debug\4.TriangleSurfaceBySideAndLatitude.pdb
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\4.TriangleSurfaceBySideAndLatitude\obj\Debug\4.TriangleSurfaceBySideAndLatitude.exe
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\4.TriangleSurfaceBySideAndLatitude\obj\Debug\4.TriangleSurfaceBySideAndLatitude.pdb

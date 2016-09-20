@@ -1,0 +1,7 @@
+D:\User\Desktop\Exam\Dealership-Skeleton\Dealership\obj\Debug\Dealership.csprojResolveAssemblyReference.cache
+D:\User\Desktop\Exam\Dealership-Skeleton\Dealership\bin\Debug\Dealership.exe
+D:\User\Desktop\Exam\Dealership-Skeleton\Dealership\bin\Debug\Dealership.pdb
+D:\User\Desktop\Exam\Dealership-Skeleton\Dealership\obj\Debug\Dealership.exe
+D:\User\Desktop\Exam\Dealership-Skeleton\Dealership\obj\Debug\Dealership.pdb
+D:\Telerik2016\C# ООП\Exam\Exam\Dealership-Skeleton\Dealership\obj\Debug\Dealership.exe
+D:\Telerik2016\C# ООП\Exam\Exam\Dealership-Skeleton\Dealership\obj\Debug\Dealership.pdb

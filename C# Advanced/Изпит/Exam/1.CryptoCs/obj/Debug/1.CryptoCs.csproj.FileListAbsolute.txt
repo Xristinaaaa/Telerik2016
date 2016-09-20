@@ -1,0 +1,12 @@
+D:\Telerik\C# за напреднали\Изпит\Exam\1.CryptoCs\bin\Debug\1.CryptoCs.exe.config
+D:\Telerik\C# за напреднали\Изпит\Exam\1.CryptoCs\bin\Debug\1.CryptoCs.exe
+D:\Telerik\C# за напреднали\Изпит\Exam\1.CryptoCs\bin\Debug\1.CryptoCs.pdb
+D:\Telerik\C# за напреднали\Изпит\Exam\1.CryptoCs\obj\Debug\1.CryptoCs.csprojResolveAssemblyReference.cache
+D:\Telerik\C# за напреднали\Изпит\Exam\1.CryptoCs\obj\Debug\1.CryptoCs.exe
+D:\Telerik\C# за напреднали\Изпит\Exam\1.CryptoCs\obj\Debug\1.CryptoCs.pdb
+D:\Telerik2016\C# за напреднали\Изпит\Exam\1.CryptoCs\bin\Debug\1.CryptoCs.exe.config
+D:\Telerik2016\C# за напреднали\Изпит\Exam\1.CryptoCs\obj\Debug\1.CryptoCs.exe
+D:\Telerik2016\C# за напреднали\Изпит\Exam\1.CryptoCs\obj\Debug\1.CryptoCs.pdb
+D:\Telerik2016\C# за напреднали\Изпит\Exam\1.CryptoCs\bin\Debug\1.CryptoCs.exe
+D:\Telerik2016\C# за напреднали\Изпит\Exam\1.CryptoCs\bin\Debug\1.CryptoCs.pdb
+D:\Telerik2016\C# за напреднали\Изпит\Exam\1.CryptoCs\obj\Debug\1.CryptoCs.csprojResolveAssemblyReference.cache

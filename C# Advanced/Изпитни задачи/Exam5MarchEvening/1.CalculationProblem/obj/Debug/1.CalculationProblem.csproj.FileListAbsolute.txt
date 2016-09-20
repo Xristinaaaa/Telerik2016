@@ -1,0 +1,12 @@
+D:\Telerik\C# за напреднали\Exam5MarchEvening\1.CalculationProblem\bin\Debug\1.CalculationProblem.exe.config
+D:\Telerik\C# за напреднали\Exam5MarchEvening\1.CalculationProblem\bin\Debug\1.CalculationProblem.exe
+D:\Telerik\C# за напреднали\Exam5MarchEvening\1.CalculationProblem\bin\Debug\1.CalculationProblem.pdb
+D:\Telerik\C# за напреднали\Exam5MarchEvening\1.CalculationProblem\obj\Debug\1.CalculationProblem.csprojResolveAssemblyReference.cache
+D:\Telerik\C# за напреднали\Exam5MarchEvening\1.CalculationProblem\obj\Debug\1.CalculationProblem.exe
+D:\Telerik\C# за напреднали\Exam5MarchEvening\1.CalculationProblem\obj\Debug\1.CalculationProblem.pdb
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\1.CalculationProblem\bin\Debug\1.CalculationProblem.exe.config
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\1.CalculationProblem\obj\Debug\1.CalculationProblem.exe
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\1.CalculationProblem\obj\Debug\1.CalculationProblem.pdb
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\1.CalculationProblem\obj\Debug\1.CalculationProblem.csprojResolveAssemblyReference.cache
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\1.CalculationProblem\bin\Debug\1.CalculationProblem.exe
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\1.CalculationProblem\bin\Debug\1.CalculationProblem.pdb

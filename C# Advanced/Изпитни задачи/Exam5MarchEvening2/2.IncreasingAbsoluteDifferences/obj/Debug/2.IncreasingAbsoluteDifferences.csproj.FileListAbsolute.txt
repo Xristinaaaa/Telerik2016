@@ -1,0 +1,12 @@
+D:\Telerik\C# за напреднали\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\bin\Debug\2.IncreasingAbsoluteDifferences.exe.config
+D:\Telerik\C# за напреднали\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\bin\Debug\2.IncreasingAbsoluteDifferences.exe
+D:\Telerik\C# за напреднали\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\bin\Debug\2.IncreasingAbsoluteDifferences.pdb
+D:\Telerik\C# за напреднали\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\obj\Debug\2.IncreasingAbsoluteDifferences.csprojResolveAssemblyReference.cache
+D:\Telerik\C# за напреднали\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\obj\Debug\2.IncreasingAbsoluteDifferences.exe
+D:\Telerik\C# за напреднали\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\obj\Debug\2.IncreasingAbsoluteDifferences.pdb
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\bin\Debug\2.IncreasingAbsoluteDifferences.exe.config
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\obj\Debug\2.IncreasingAbsoluteDifferences.exe
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\obj\Debug\2.IncreasingAbsoluteDifferences.pdb
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\bin\Debug\2.IncreasingAbsoluteDifferences.exe
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\bin\Debug\2.IncreasingAbsoluteDifferences.pdb
+D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening2\2.IncreasingAbsoluteDifferences\obj\Debug\2.IncreasingAbsoluteDifferences.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik\C# за напреднали\Arrays\8.MaximalSum\bin\Debug\8.MaximalSum.exe.config
+D:\Telerik\C# за напреднали\Arrays\8.MaximalSum\bin\Debug\8.MaximalSum.exe
+D:\Telerik\C# за напреднали\Arrays\8.MaximalSum\bin\Debug\8.MaximalSum.pdb
+D:\Telerik\C# за напреднали\Arrays\8.MaximalSum\obj\Debug\8.MaximalSum.csprojResolveAssemblyReference.cache
+D:\Telerik\C# за напреднали\Arrays\8.MaximalSum\obj\Debug\8.MaximalSum.exe
+D:\Telerik\C# за напреднали\Arrays\8.MaximalSum\obj\Debug\8.MaximalSum.pdb

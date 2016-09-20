@@ -1,0 +1,6 @@
+D:\Telerik\C# ООП\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\bin\Debug\ExtensionMethodsDelegatesLambdaLINQ.exe.config
+D:\Telerik\C# ООП\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\obj\Debug\ExtensionMethodsDelegatesLambdaLINQ.csprojResolveAssemblyReference.cache
+D:\Telerik\C# ООП\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\bin\Debug\ExtensionMethodsDelegatesLambdaLINQ.exe
+D:\Telerik\C# ООП\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\bin\Debug\ExtensionMethodsDelegatesLambdaLINQ.pdb
+D:\Telerik\C# ООП\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\obj\Debug\ExtensionMethodsDelegatesLambdaLINQ.exe
+D:\Telerik\C# ООП\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\obj\Debug\ExtensionMethodsDelegatesLambdaLINQ.pdb

@@ -1,0 +1,11 @@
+D:\Telerik\C# за напреднали\Изпит\Exam\4.KotTakoa\bin\Debug\4.KotTakoa.exe.config
+D:\Telerik\C# за напреднали\Изпит\Exam\4.KotTakoa\bin\Debug\4.KotTakoa.exe
+D:\Telerik\C# за напреднали\Изпит\Exam\4.KotTakoa\bin\Debug\4.KotTakoa.pdb
+D:\Telerik\C# за напреднали\Изпит\Exam\4.KotTakoa\obj\Debug\4.KotTakoa.exe
+D:\Telerik\C# за напреднали\Изпит\Exam\4.KotTakoa\obj\Debug\4.KotTakoa.pdb
+D:\Telerik2016\C# за напреднали\Изпит\Exam\4.KotTakoa\bin\Debug\4.KotTakoa.exe.config
+D:\Telerik2016\C# за напреднали\Изпит\Exam\4.KotTakoa\bin\Debug\4.KotTakoa.exe
+D:\Telerik2016\C# за напреднали\Изпит\Exam\4.KotTakoa\bin\Debug\4.KotTakoa.pdb
+D:\Telerik2016\C# за напреднали\Изпит\Exam\4.KotTakoa\obj\Debug\4.KotTakoa.csprojResolveAssemblyReference.cache
+D:\Telerik2016\C# за напреднали\Изпит\Exam\4.KotTakoa\obj\Debug\4.KotTakoa.exe
+D:\Telerik2016\C# за напреднали\Изпит\Exam\4.KotTakoa\obj\Debug\4.KotTakoa.pdb

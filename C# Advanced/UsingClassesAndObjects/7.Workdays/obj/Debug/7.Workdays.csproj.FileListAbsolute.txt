@@ -1,0 +1,5 @@
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\7.Workdays\bin\Debug\7.Workdays.exe.config
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\7.Workdays\bin\Debug\7.Workdays.exe
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\7.Workdays\bin\Debug\7.Workdays.pdb
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\7.Workdays\obj\Debug\7.Workdays.exe
+D:\Telerik\C# за напреднали\UsingClassesAndObjects\7.Workdays\obj\Debug\7.Workdays.pdb

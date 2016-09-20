@@ -1,0 +1,5 @@
+D:\Telerik\C# за напреднали\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe.config
+D:\Telerik\C# за напреднали\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe
+D:\Telerik\C# за напреднали\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.pdb
+D:\Telerik\C# за напреднали\Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.exe
+D:\Telerik\C# за напреднали\Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.pdb

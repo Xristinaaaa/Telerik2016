@@ -1,0 +1,5 @@
+D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers.List\bin\Debug\StudentsAndWorkers.List.dll
+D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers.List\bin\Debug\StudentsAndWorkers.List.pdb
+D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers.List\obj\Debug\StudentsAndWorkers.List.csprojResolveAssemblyReference.cache
+D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers.List\obj\Debug\StudentsAndWorkers.List.dll
+D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers.List\obj\Debug\StudentsAndWorkers.List.pdb
