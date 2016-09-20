@@ -1,1 +1,0 @@
-D:\Telerik\C# за напреднали\Strings\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe.config

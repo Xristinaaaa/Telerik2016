@@ -1,1 +1,0 @@
-D:\Telerik\C# за напреднали\MultidimensionalArrays\3,SequenceInMatrix\bin\Debug\3,SequenceInMatrix.exe.config

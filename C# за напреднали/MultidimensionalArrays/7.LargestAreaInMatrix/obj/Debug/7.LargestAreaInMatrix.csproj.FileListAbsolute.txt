@@ -1,1 +1,0 @@
-D:\Telerik\C# за напреднали\MultidimensionalArrays\7.LargestAreaInMatrix\bin\Debug\7.LargestAreaInMatrix.exe.config

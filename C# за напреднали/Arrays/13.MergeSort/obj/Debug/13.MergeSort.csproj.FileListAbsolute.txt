@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe.config
-D:\Telerik\C# за напреднали\Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe
-D:\Telerik\C# за напреднали\Arrays\13.MergeSort\bin\Debug\13.MergeSort.pdb
-D:\Telerik\C# за напреднали\Arrays\13.MergeSort\obj\Debug\13.MergeSort.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Arrays\13.MergeSort\obj\Debug\13.MergeSort.exe
-D:\Telerik\C# за напреднали\Arrays\13.MergeSort\obj\Debug\13.MergeSort.pdb

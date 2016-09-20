@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Изпитни задачи\14.09.2013\Ecam\1.MultiverseCommunication\bin\Debug\1.MultiverseCommunication.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\14.09.2013\Ecam\1.MultiverseCommunication\bin\Debug\1.MultiverseCommunication.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\14.09.2013\Ecam\1.MultiverseCommunication\bin\Debug\1.MultiverseCommunication.pdb
-D:\Telerik\C# за напреднали\Изпитни задачи\14.09.2013\Ecam\1.MultiverseCommunication\obj\Debug\1.MultiverseCommunication.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Изпитни задачи\14.09.2013\Ecam\1.MultiverseCommunication\obj\Debug\1.MultiverseCommunication.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\14.09.2013\Ecam\1.MultiverseCommunication\obj\Debug\1.MultiverseCommunication.pdb

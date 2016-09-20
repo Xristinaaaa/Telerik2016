@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\1.StrangeLandNumbers\bin\Debug\1.StrangeLandNumbers.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\1.StrangeLandNumbers\bin\Debug\1.StrangeLandNumbers.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\1.StrangeLandNumbers\bin\Debug\1.StrangeLandNumbers.pdb
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\1.StrangeLandNumbers\obj\Debug\1.StrangeLandNumbers.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\1.StrangeLandNumbers\obj\Debug\1.StrangeLandNumbers.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\1.StrangeLandNumbers\obj\Debug\1.StrangeLandNumbers.pdb

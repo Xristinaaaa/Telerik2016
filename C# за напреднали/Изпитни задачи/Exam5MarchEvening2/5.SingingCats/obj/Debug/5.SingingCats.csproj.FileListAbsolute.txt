@@ -1,2 +1,0 @@
-D:\Telerik\C# за напреднали\Exam5MarchEvening2\5.SingingCats\bin\Debug\5.SingingCats.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening2\5.SingingCats\bin\Debug\5.SingingCats.exe.config

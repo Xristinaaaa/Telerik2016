@@ -1,5 +1,0 @@
-D:\Telerik\C# за напреднали\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
-D:\Telerik\C# за напреднали\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe
-D:\Telerik\C# за напреднали\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.pdb
-D:\Telerik\C# за напреднали\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
-D:\Telerik\C# за напреднали\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb

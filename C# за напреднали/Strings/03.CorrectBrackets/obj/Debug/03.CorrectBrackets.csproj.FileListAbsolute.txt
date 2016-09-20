@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Strings\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe.config
-D:\Telerik\C# за напреднали\Strings\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe
-D:\Telerik\C# за напреднали\Strings\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.pdb
-D:\Telerik\C# за напреднали\Strings\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.exe
-D:\Telerik\C# за напреднали\Strings\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.pdb
-D:\Telerik\C# за напреднали\Strings\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.csprojResolveAssemblyReference.cache

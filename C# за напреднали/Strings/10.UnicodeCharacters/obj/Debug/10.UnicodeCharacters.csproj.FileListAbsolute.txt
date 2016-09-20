@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Strings\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
-D:\Telerik\C# за напреднали\Strings\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
-D:\Telerik\C# за напреднали\Strings\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
-D:\Telerik\C# за напреднали\Strings\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Strings\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
-D:\Telerik\C# за напреднали\Strings\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

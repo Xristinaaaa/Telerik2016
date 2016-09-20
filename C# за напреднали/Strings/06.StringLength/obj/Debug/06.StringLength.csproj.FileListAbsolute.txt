@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Strings\06.StringLength\bin\Debug\06.StringLength.exe.config
-D:\Telerik\C# за напреднали\Strings\06.StringLength\obj\Debug\06.StringLength.exe
-D:\Telerik\C# за напреднали\Strings\06.StringLength\obj\Debug\06.StringLength.pdb
-D:\Telerik\C# за напреднали\Strings\06.StringLength\bin\Debug\06.StringLength.exe
-D:\Telerik\C# за напреднали\Strings\06.StringLength\bin\Debug\06.StringLength.pdb
-D:\Telerik\C# за напреднали\Strings\06.StringLength\obj\Debug\06.StringLength.csprojResolveAssemblyReference.cache

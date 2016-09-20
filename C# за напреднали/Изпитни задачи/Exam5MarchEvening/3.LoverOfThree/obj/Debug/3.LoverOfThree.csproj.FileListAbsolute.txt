@@ -1,9 +1,0 @@
-D:\Telerik\C# за напреднали\Exam5MarchEvening\3.LoverOfThree\bin\Debug\3.LoverOfThree.exe.config
-D:\Telerik\C# за напреднали\Exam5MarchEvening\3.LoverOfThree\bin\Debug\3.LoverOfThree.exe
-D:\Telerik\C# за напреднали\Exam5MarchEvening\3.LoverOfThree\bin\Debug\3.LoverOfThree.pdb
-D:\Telerik\C# за напреднали\Exam5MarchEvening\3.LoverOfThree\obj\Debug\3.LoverOfThree.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Exam5MarchEvening\3.LoverOfThree\obj\Debug\3.LoverOfThree.exe
-D:\Telerik\C# за напреднали\Exam5MarchEvening\3.LoverOfThree\obj\Debug\3.LoverOfThree.pdb
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\3.LoverOfThree\bin\Debug\3.LoverOfThree.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\3.LoverOfThree\obj\Debug\3.LoverOfThree.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\3.LoverOfThree\obj\Debug\3.LoverOfThree.pdb

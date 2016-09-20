@@ -1,5 +1,0 @@
-D:\Telerik\C# за напреднали\NumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe.config
-D:\Telerik\C# за напреднали\NumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe
-D:\Telerik\C# за напреднали\NumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.pdb
-D:\Telerik\C# за напреднали\NumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.exe
-D:\Telerik\C# за напреднали\NumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.pdb

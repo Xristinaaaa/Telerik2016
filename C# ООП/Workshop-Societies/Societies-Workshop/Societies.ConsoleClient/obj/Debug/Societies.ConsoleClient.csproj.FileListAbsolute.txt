@@ -1,3 +1,0 @@
-D:\Telerik\Object-Oriented-Programming\Topics\07. OOP-Workshop\Societies-Workshop\Societies.ConsoleClient\bin\Debug\Societies.ConsoleClient.exe.config
-D:\Telerik\C# ООП\Workshop-Societies\Societies-Workshop\Societies.ConsoleClient\bin\Debug\Societies.ConsoleClient.exe.config
-D:\Telerik2016\C# ООП\Workshop-Societies\Societies-Workshop\Societies.ConsoleClient\bin\Debug\Societies.ConsoleClient.exe.config

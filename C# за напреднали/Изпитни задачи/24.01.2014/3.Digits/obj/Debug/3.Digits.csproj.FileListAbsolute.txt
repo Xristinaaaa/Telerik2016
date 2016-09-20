@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\3.Digits\bin\Debug\3.Digits.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\3.Digits\bin\Debug\3.Digits.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\3.Digits\bin\Debug\3.Digits.pdb
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\3.Digits\obj\Debug\3.Digits.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\3.Digits\obj\Debug\3.Digits.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\3.Digits\obj\Debug\3.Digits.pdb

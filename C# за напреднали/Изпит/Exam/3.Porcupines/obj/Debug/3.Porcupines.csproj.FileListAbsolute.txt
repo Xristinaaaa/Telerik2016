@@ -1,3 +1,0 @@
-D:\Telerik\C# за напреднали\Изпит\Exam\3.Porcupines\bin\Debug\3.Porcupines.exe.config
-D:\Telerik2016\C# за напреднали\Изпит\Exam\3.Porcupines\bin\Debug\3.Porcupines.exe.config
-D:\Telerik2016\C# за напреднали\Изпит\Exam\3.Porcupines\obj\Debug\3.Porcupines.csprojResolveAssemblyReference.cache

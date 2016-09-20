@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Strings\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe.config
-D:\Telerik\C# за напреднали\Strings\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe
-D:\Telerik\C# за напреднали\Strings\08.ExtractSentences\bin\Debug\08.ExtractSentences.pdb
-D:\Telerik\C# за напреднали\Strings\08.ExtractSentences\obj\Debug\08.ExtractSentences.exe
-D:\Telerik\C# за напреднали\Strings\08.ExtractSentences\obj\Debug\08.ExtractSentences.pdb
-D:\Telerik\C# за напреднали\Strings\08.ExtractSentences\obj\Debug\08.ExtractSentences.csprojResolveAssemblyReference.cache

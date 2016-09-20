@@ -1,6 +1,0 @@
-D:\Telerik\C# ООП\DefiningClasses\1.DefineClass\bin\Debug\1.DefineClass.exe.config
-D:\Telerik\C# ООП\DefiningClasses\1.DefineClass\bin\Debug\1.DefineClass.exe
-D:\Telerik\C# ООП\DefiningClasses\1.DefineClass\bin\Debug\1.DefineClass.pdb
-D:\Telerik\C# ООП\DefiningClasses\1.DefineClass\obj\Debug\1.DefineClass.csprojResolveAssemblyReference.cache
-D:\Telerik\C# ООП\DefiningClasses\1.DefineClass\obj\Debug\1.DefineClass.exe
-D:\Telerik\C# ООП\DefiningClasses\1.DefineClass\obj\Debug\1.DefineClass.pdb

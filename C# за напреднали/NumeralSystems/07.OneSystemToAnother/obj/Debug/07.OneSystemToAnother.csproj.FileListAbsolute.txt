@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\NumeralSystems\07.OneSystemToAnother\bin\Debug\07.OneSystemToAnother.exe.config
-D:\Telerik\C# за напреднали\NumeralSystems\07.OneSystemToAnother\bin\Debug\07.OneSystemToAnother.exe
-D:\Telerik\C# за напреднали\NumeralSystems\07.OneSystemToAnother\bin\Debug\07.OneSystemToAnother.pdb
-D:\Telerik\C# за напреднали\NumeralSystems\07.OneSystemToAnother\obj\Debug\07.OneSystemToAnother.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\NumeralSystems\07.OneSystemToAnother\obj\Debug\07.OneSystemToAnother.exe
-D:\Telerik\C# за напреднали\NumeralSystems\07.OneSystemToAnother\obj\Debug\07.OneSystemToAnother.pdb

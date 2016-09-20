@@ -1,5 +1,0 @@
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\6.TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\6.TriangleSurfaceByTwoSidesAndAnAngle.exe.config
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\6.TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\6.TriangleSurfaceByTwoSidesAndAnAngle.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\6.TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\6.TriangleSurfaceByTwoSidesAndAnAngle.pdb
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\6.TriangleSurfaceByTwoSidesAndAnAngle\obj\Debug\6.TriangleSurfaceByTwoSidesAndAnAngle.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\6.TriangleSurfaceByTwoSidesAndAnAngle\obj\Debug\6.TriangleSurfaceByTwoSidesAndAnAngle.pdb

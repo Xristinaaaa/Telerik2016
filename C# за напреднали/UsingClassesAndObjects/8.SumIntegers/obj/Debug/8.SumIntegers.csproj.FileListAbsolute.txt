@@ -1,5 +1,0 @@
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\8.SumIntegers\bin\Debug\8.SumIntegers.exe.config
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\8.SumIntegers\bin\Debug\8.SumIntegers.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\8.SumIntegers\bin\Debug\8.SumIntegers.pdb
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\8.SumIntegers\obj\Debug\8.SumIntegers.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\8.SumIntegers\obj\Debug\8.SumIntegers.pdb

@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Arrays\3.CompareCharArrays\bin\Debug\3.CompareCharArrays.exe.config
-D:\Telerik\C# за напреднали\Arrays\3.CompareCharArrays\bin\Debug\3.CompareCharArrays.exe
-D:\Telerik\C# за напреднали\Arrays\3.CompareCharArrays\bin\Debug\3.CompareCharArrays.pdb
-D:\Telerik\C# за напреднали\Arrays\3.CompareCharArrays\obj\Debug\3.CompareCharArrays.exe
-D:\Telerik\C# за напреднали\Arrays\3.CompareCharArrays\obj\Debug\3.CompareCharArrays.pdb
-D:\Telerik\C# за напреднали\Arrays\3.CompareCharArrays\obj\Debug\3.CompareCharArrays.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Arrays\1.AllocateArray\bin\Debug\1.AllocateArray.exe.config
-D:\Telerik\C# за напреднали\Arrays\1.AllocateArray\bin\Debug\1.AllocateArray.exe
-D:\Telerik\C# за напреднали\Arrays\1.AllocateArray\bin\Debug\1.AllocateArray.pdb
-D:\Telerik\C# за напреднали\Arrays\1.AllocateArray\obj\Debug\1.AllocateArray.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Arrays\1.AllocateArray\obj\Debug\1.AllocateArray.exe
-D:\Telerik\C# за напреднали\Arrays\1.AllocateArray\obj\Debug\1.AllocateArray.pdb

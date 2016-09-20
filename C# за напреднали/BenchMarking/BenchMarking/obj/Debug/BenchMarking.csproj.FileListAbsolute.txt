@@ -1,1 +1,0 @@
-D:\Telerik\C# за напреднали\BenchMarking\BenchMarking\bin\Debug\BenchMarking.exe.config

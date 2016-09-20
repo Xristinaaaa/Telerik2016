@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\4.RelevanceIndex\bin\Debug\4.RelevanceIndex.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\4.RelevanceIndex\bin\Debug\4.RelevanceIndex.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\4.RelevanceIndex\bin\Debug\4.RelevanceIndex.pdb
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\4.RelevanceIndex\obj\Debug\4.RelevanceIndex.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\4.RelevanceIndex\obj\Debug\4.RelevanceIndex.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\24.01.2014\4.RelevanceIndex\obj\Debug\4.RelevanceIndex.pdb

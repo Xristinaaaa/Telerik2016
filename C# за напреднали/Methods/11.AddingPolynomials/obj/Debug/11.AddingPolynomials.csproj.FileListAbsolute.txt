@@ -1,5 +1,0 @@
-D:\Telerik\C# за напреднали\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe.config
-D:\Telerik\C# за напреднали\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe
-D:\Telerik\C# за напреднали\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.pdb
-D:\Telerik\C# за напреднали\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.exe
-D:\Telerik\C# за напреднали\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.pdb

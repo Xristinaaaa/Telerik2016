@@ -1,8 +1,0 @@
-D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe.config
-D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe
-D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
-D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.List.dll
-D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.List.pdb
-D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.csprojResolveAssemblyReference.cache
-D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.exe
-D:\Telerik\C# ООП\OOPPrinciplesPart1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb

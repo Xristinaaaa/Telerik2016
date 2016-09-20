@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.exe.config
-D:\Telerik\C# за напреднали\ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.exe
-D:\Telerik\C# за напреднали\ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.pdb
-D:\Telerik\C# за напреднали\ExceptionHandling\1.SquareRoot\obj\Debug\1.SquareRoot.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\ExceptionHandling\1.SquareRoot\obj\Debug\1.SquareRoot.exe
-D:\Telerik\C# за напреднали\ExceptionHandling\1.SquareRoot\obj\Debug\1.SquareRoot.pdb

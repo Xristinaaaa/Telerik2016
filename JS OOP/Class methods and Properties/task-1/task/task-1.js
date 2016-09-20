@@ -2,7 +2,7 @@
 
 class listNode {
     constructor(value) {
-        this._valueOfNode = value;
+        this.valueOfNode = value;
         this.nextNode = null;
     }
 
@@ -48,8 +48,8 @@ var LinkedList = ( function (listNode) {
     }
     class LinkedList {
         constructor() {
-            this._length = 0;
-            this._head = null;
+            this.length = 0;
+            this.head = null;
         }
 
         get lengthOfList() {

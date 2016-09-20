@@ -1,5 +1,0 @@
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\5.TriangleSurfaceByThreeSides\bin\Debug\5.TriangleSurfaceByThreeSides.exe.config
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\5.TriangleSurfaceByThreeSides\bin\Debug\5.TriangleSurfaceByThreeSides.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\5.TriangleSurfaceByThreeSides\bin\Debug\5.TriangleSurfaceByThreeSides.pdb
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\5.TriangleSurfaceByThreeSides\obj\Debug\5.TriangleSurfaceByThreeSides.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\5.TriangleSurfaceByThreeSides\obj\Debug\5.TriangleSurfaceByThreeSides.pdb

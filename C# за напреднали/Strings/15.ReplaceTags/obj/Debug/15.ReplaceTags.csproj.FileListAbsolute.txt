@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Strings\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
-D:\Telerik\C# за напреднали\Strings\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
-D:\Telerik\C# за напреднали\Strings\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
-D:\Telerik\C# за напреднали\Strings\15.ReplaceTags\obj\Debug\15.ReplaceTags.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Strings\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
-D:\Telerik\C# за напреднали\Strings\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

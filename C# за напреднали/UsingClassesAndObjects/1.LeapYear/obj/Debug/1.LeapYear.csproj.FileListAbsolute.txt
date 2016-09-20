@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\1.LeapYear\bin\Debug\1.LeapYear.exe.config
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\1.LeapYear\bin\Debug\1.LeapYear.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\1.LeapYear\bin\Debug\1.LeapYear.pdb
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\1.LeapYear\obj\Debug\1.LeapYear.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\1.LeapYear\obj\Debug\1.LeapYear.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\1.LeapYear\obj\Debug\1.LeapYear.pdb

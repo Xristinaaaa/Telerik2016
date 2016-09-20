@@ -1,7 +1,0 @@
-D:\Telerik\C# за напреднали\Exam5MarchEvening\4.Konspiration\bin\Debug\4.Konspiration.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\4.Konspiration\bin\Debug\4.Konspiration.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\4.Konspiration\obj\Debug\4.Konspiration.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\4.Konspiration\bin\Debug\4.Konspiration.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\4.Konspiration\bin\Debug\4.Konspiration.pdb
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\4.Konspiration\obj\Debug\4.Konspiration.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\Exam5MarchEvening\4.Konspiration\obj\Debug\4.Konspiration.pdb

@@ -1,5 +1,0 @@
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\3.DayOfWeek\bin\Debug\3.DayOfWeek.exe.config
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\3.DayOfWeek\bin\Debug\3.DayOfWeek.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\3.DayOfWeek\bin\Debug\3.DayOfWeek.pdb
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\3.DayOfWeek\obj\Debug\3.DayOfWeek.exe
-D:\Telerik\C# за напреднали\UsingClassesAndObjects\3.DayOfWeek\obj\Debug\3.DayOfWeek.pdb

@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe.config
-D:\Telerik\C# за напреднали\Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe
-D:\Telerik\C# за напреднали\Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.pdb
-D:\Telerik\C# за напреднали\Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.exe
-D:\Telerik\C# за напреднали\Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.pdb

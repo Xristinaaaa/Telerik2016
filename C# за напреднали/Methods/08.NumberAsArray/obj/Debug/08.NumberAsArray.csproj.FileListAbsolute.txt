@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe.config
-D:\Telerik\C# за напреднали\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe
-D:\Telerik\C# за напреднали\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.pdb
-D:\Telerik\C# за напреднали\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.exe
-D:\Telerik\C# за напреднали\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.pdb

@@ -1,7 +1,0 @@
-D:\Telerik\C# за напреднали\22.01.2014\4.VariableLengthCoding\bin\Debug\4.VariableLengthCoding.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\22.01.2014\4.VariableLengthCoding\bin\Debug\4.VariableLengthCoding.exe.config
-D:\Telerik\C# за напреднали\Изпитни задачи\22.01.2014\4.VariableLengthCoding\bin\Debug\4.VariableLengthCoding.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\22.01.2014\4.VariableLengthCoding\bin\Debug\4.VariableLengthCoding.pdb
-D:\Telerik\C# за напреднали\Изпитни задачи\22.01.2014\4.VariableLengthCoding\obj\Debug\4.VariableLengthCoding.csprojResolveAssemblyReference.cache
-D:\Telerik\C# за напреднали\Изпитни задачи\22.01.2014\4.VariableLengthCoding\obj\Debug\4.VariableLengthCoding.exe
-D:\Telerik\C# за напреднали\Изпитни задачи\22.01.2014\4.VariableLengthCoding\obj\Debug\4.VariableLengthCoding.pdb

@@ -1,6 +1,0 @@
-D:\Telerik\C# за напреднали\NumeralSystems\05.HexademicalToBinary\bin\Debug\05.HexademicalToBinary.exe.config
-D:\Telerik\C# за напреднали\NumeralSystems\05.HexademicalToBinary\bin\Debug\05.HexademicalToBinary.exe
-D:\Telerik\C# за напреднали\NumeralSystems\05.HexademicalToBinary\bin\Debug\05.HexademicalToBinary.pdb
-D:\Telerik\C# за напреднали\NumeralSystems\05.HexademicalToBinary\obj\Debug\05.HexademicalToBinary.exe
-D:\Telerik\C# за напреднали\NumeralSystems\05.HexademicalToBinary\obj\Debug\05.HexademicalToBinary.pdb
-D:\Telerik\C# за напреднали\NumeralSystems\05.HexademicalToBinary\obj\Debug\05.HexademicalToBinary.csprojResolveAssemblyReference.cache
