@@ -1,53 +1,42 @@
+var button = document.getElementById('btn');
+button.addEventListener('click', flow);
 
-(function () {
-    var location = document.getElementById('location'),
-        clock = document.getElementById('clock');
+function getLocation() {
+    return new Promise(function (resolve, reject) {
+        navigator.geolocation.getCurrentPosition(
+            function (position) {
+                resolve(position);
+            },
+            function (error) {
+                reject(error);
+            }
+        );
+    });
+}
 
-    if (!navigator.geolocation) {
-        location.innerHTML = '<p>Geolocation is not supported by your browser</p>';
-        return;
+function parseCoords(locationPosition) {
+    if (locationPosition.coords) {
+        return {
+            latitude: locationPosition.coords.latitude,
+            longitude: locationPosition.coords.longitude
+        };
+    } else {
+        throw new Error('No coordinates.');
     }
+}
 
-    function getLocation() {
-        return new Promise(function (resolve, reject) {
-            navigator.geolocation.getCurrentPosition(
-                function (position) {
-                    resolve(position);
-                },
-                function (error) {
-                    reject(error);
-                }
-            );
-        });
-    }
+function createLocationImage(coordsObj) {
+    let img = document.createElement('img'),
+        imgSrc = 'http://maps.googleapis.com/maps/api/staticmap?center=' + coordsObj.latitude + ',' + coordsObj.longitude + '&zoom=13&size=500x500&sensor=false',
+        wrapper = document.getElementById('wrapper');
 
-    function parseCoords(locationPosition) {
-        if (locationPosition.coords) {
-            return {
-                latitude: locationPosition.coords.latitude,
-                longitude: locationPosition.coords.longitude
-            };
-        }
-        else {
-            throw new Error('No coordinates.');
-        }
-    }
+    img.setAttribute('src', imgSrc);
 
-    function createLocationImage(coordsObj) {
-        var img = document.createElement('img'),
-            imgSrc = 'http://maps.googleapis.com/maps/api/staticmap?center=' + coordsObj.latitude + ',' + coordsObj.longitude + '&zoom=13&size=500x500&sensor=false';
+    wrapper.appendChild(img);
+}
 
-        img.setAttribute('src', imgSrc);
-
-        location.appendChild(img);
-    }
-
+function flow() {
     getLocation()
         .then(parseCoords)
         .then(createLocationImage);
-
-    setInterval(function () {
-        var currentDate = new Date();
-        clock.innerHTML = currentDate.getHours() + ':' + currentDate.getMinutes() + ':' + currentDate.getSeconds();
-    }, 1000);
-})();
+}

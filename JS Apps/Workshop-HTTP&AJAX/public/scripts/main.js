@@ -53,7 +53,7 @@
     threads.forEach((th) => {
       let currentThreadUI = getThreadUI(th.title, th.id, th.username, th.date);
       threadsContainer.append(currentThreadUI);
-    })
+    });
     threadsContainer.append(getAddNewThreadUI());
 
     contentContainer.find('#container-thraeds').remove();
@@ -80,7 +80,7 @@
     if (data.result.messages && data.result.messages.length > 0) {
       data.result.messages.forEach((msg) => {
         messagesContainer.append(getMsgUI(msg))
-      })
+      });
     } else {
       messagesContainer.append(getMsgUI('No messages!'))
     }
@@ -118,8 +118,8 @@
   navbar.on('click', '#btn-threads', (ev) => {
     data.threads.get()
         .then((data) => {
-          loadThreadsContent(data.result)
-        })
+          loadThreadsContent(data.result);
+        });
   });
 
   contentContainer.on('click', '#btn-add-thread', (ev) => {
@@ -128,7 +128,7 @@
         .then(/* add to UI */)
         .then(showMsg('Successfuly added the new thread', 'Success', 'alert-success'))
         .catch((err) => showMsg(JSON.parse(err.responseText).err, 'Error', 'alert-danger'));
-  })
+  });
 
   contentContainer.on('click', 'a.thread-title', (ev) => {
     let $target = $(ev.target),
@@ -136,8 +136,8 @@
 
     data.threads.getById(threadId)
       .then(loadMessagesContent)
-      .catch((err) => showMsg(err, 'Error', 'alert-danger'))
-  })
+      .catch((err) => showMsg(err, 'Error', 'alert-danger'));
+  });
 
   contentContainer.on('click', '.btn-add-message', (ev) => {
     let $target = $(ev.target),
@@ -149,7 +149,7 @@
         .then(/* add to UI */)
         .then(showMsg('Successfuly added the new mssagee', 'Success', 'alert-success'))
         .catch((err) => showMsg(JSON.parse(err.responseText).err, 'Error', 'alert-danger'));
-  })
+  });
 
   contentContainer.on('click', '.btn-close-msg', (ev) => {
     let msgContainer = $(ev.target).parents('.container-messages').remove();
@@ -171,8 +171,8 @@
   navbar.on('click', '#btn-gallery', (ev) => {
     data.gallery.get()
       .then(loadGalleryContent)
-      .catch(console.log)
-  })
+      .catch(console.log);
+  });
   // end gallery
 
   // start login/logout
@@ -180,11 +180,11 @@
     let username = usernameInput.val() || 'anonymous';
     data.users.login(username)
       .then((user) => {
-        usernameInput.val('')
+        usernameInput.val('');
         usernameSpan.text(user);
         loginForm.addClass('hidden');
         logoutForm.removeClass('hidden');
-      })
+      });
   });
   navbar.on('click', '#btn-logout', (ev) => {
     data.users.logout()
@@ -192,7 +192,7 @@
       usernameSpan.text('');
       loginForm.removeClass('hidden');
       logoutForm.addClass('hidden');
-    })
+    });
   });
   // end login/logout
 });

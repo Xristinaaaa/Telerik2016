@@ -3,7 +3,6 @@
     popupDiv.innerHTML='<p>Watch out!</p>';
 
     var promise = new Promise(function (resolve, reject) {
-
         setTimeout(function () {
             resolve('https://www.google.com');
         }, 2000);
