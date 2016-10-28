@@ -79,10 +79,10 @@
 
     if (data.result.messages && data.result.messages.length > 0) {
       data.result.messages.forEach((msg) => {
-        messagesContainer.append(getMsgUI(msg))
+        messagesContainer.append(getMsgUI(msg));
       });
     } else {
-      messagesContainer.append(getMsgUI('No messages!'))
+      messagesContainer.append(getMsgUI('No messages!'));
     }
 
     messagesContainer.append(getAddNewMsgUI());
@@ -97,7 +97,7 @@
         containerImgs = containerGallery.find('#gallery-imgs'),
         item = $($('#gallery-img-tempalte').text()),
         itemImg = item.find('img.gallery-item-img'),
-        itemTitle = item.find('.gallery-item-title')
+        itemTitle = item.find('.gallery-item-title');
 
     list.forEach((el) => {
       itemTitle.text(el.data.title);
