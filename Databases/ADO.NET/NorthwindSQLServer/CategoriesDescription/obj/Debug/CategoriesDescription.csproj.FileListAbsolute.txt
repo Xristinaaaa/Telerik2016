@@ -1,0 +1,5 @@
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesDescription\bin\Debug\CategoriesDescription.exe.config
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesDescription\bin\Debug\CategoriesDescription.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesDescription\bin\Debug\CategoriesDescription.pdb
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesDescription\obj\Debug\CategoriesDescription.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesDescription\obj\Debug\CategoriesDescription.pdb

@@ -1,0 +1,1 @@
+D:\Telerik2016\Design Patterns\Creational Patterns\CreationalPatternsExamples\BuilderExample\bin\Debug\BuilderExample.exe.config

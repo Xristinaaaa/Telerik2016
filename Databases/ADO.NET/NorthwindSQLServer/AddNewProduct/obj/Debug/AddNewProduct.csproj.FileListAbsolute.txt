@@ -1,0 +1,5 @@
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\AddNewProduct\bin\Debug\AddNewProduct.exe.config
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\AddNewProduct\bin\Debug\AddNewProduct.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\AddNewProduct\bin\Debug\AddNewProduct.pdb
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\AddNewProduct\obj\Debug\AddNewProduct.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\AddNewProduct\obj\Debug\AddNewProduct.pdb

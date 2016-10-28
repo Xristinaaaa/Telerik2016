@@ -1,0 +1,5 @@
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoryProducts\bin\Debug\CategoryProducts.exe.config
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoryProducts\bin\Debug\CategoryProducts.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoryProducts\bin\Debug\CategoryProducts.pdb
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoryProducts\obj\Debug\CategoryProducts.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoryProducts\obj\Debug\CategoryProducts.pdb

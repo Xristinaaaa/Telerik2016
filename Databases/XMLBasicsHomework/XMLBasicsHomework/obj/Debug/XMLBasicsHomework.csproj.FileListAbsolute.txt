@@ -1,0 +1,2 @@
+D:\Telerik2016\Databases\XML-Basics\XMLBasicsHomework\XMLBasicsHomework\bin\Debug\XMLBasicsHomework.exe.config
+D:\Telerik2016\Databases\XMLBasicsHomework\XMLBasicsHomework\bin\Debug\XMLBasicsHomework.exe.config

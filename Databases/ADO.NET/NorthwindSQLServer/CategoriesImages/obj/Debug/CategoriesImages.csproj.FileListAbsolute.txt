@@ -1,0 +1,6 @@
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesImages\bin\Debug\CategoriesImages.exe.config
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesImages\bin\Debug\CategoriesImages.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesImages\bin\Debug\CategoriesImages.pdb
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesImages\obj\Debug\CategoriesImages.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesImages\obj\Debug\CategoriesImages.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesImages\obj\Debug\CategoriesImages.pdb

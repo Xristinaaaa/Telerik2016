@@ -1,0 +1,9 @@
+D:\Telerik2016\JSON.Net\JSON.Net\bin\Debug\JSON.Net.exe.config
+D:\Telerik2016\Databases\JSON.Net\JSON.Net\bin\Debug\JSON.Net.exe.config
+D:\Telerik2016\Databases\JSON.Net\JSON.Net\bin\Debug\JSON.Net.exe
+D:\Telerik2016\Databases\JSON.Net\JSON.Net\bin\Debug\JSON.Net.pdb
+D:\Telerik2016\Databases\JSON.Net\JSON.Net\bin\Debug\Newtonsoft.Json.dll
+D:\Telerik2016\Databases\JSON.Net\JSON.Net\bin\Debug\Newtonsoft.Json.xml
+D:\Telerik2016\Databases\JSON.Net\JSON.Net\obj\Debug\JSON.Net.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Databases\JSON.Net\JSON.Net\obj\Debug\JSON.Net.exe
+D:\Telerik2016\Databases\JSON.Net\JSON.Net\obj\Debug\JSON.Net.pdb

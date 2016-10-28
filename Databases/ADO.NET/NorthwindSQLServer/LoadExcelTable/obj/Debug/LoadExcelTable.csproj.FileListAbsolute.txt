@@ -1,0 +1,5 @@
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\LoadExcelTable\bin\Debug\LoadExcelTable.exe.config
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\LoadExcelTable\bin\Debug\LoadExcelTable.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\LoadExcelTable\bin\Debug\LoadExcelTable.pdb
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\LoadExcelTable\obj\Debug\LoadExcelTable.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\LoadExcelTable\obj\Debug\LoadExcelTable.pdb

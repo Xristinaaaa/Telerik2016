@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<students xmlns="urn:students"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:students file://./students.xsd"
+  name= "Students db"> 
+  <student>
+      <name>Ivan</name>
+      <sex>Male</sex>
+      <birthDate>16 March 1996</birthDate>
+      <phone>08923423</phone>
+      <email>i.ivanov@gmail.com</email>
+      <course>2</course>
+      <specialty>Software Engineering</specialty>
+      <fn>61616</fn>
+      <exams>
+          <exam>Geometry</exam>
+          <exam>English</exam>
+      </exams>
+  </student>
+  <student>
+      <name>Petka</name>
+      <sex>Female</sex>
+      <birthDate>16 April 1996</birthDate>
+      <phone>0888655</phone>
+      <email>petka@gmail.com</email>
+      <course>2</course>
+      <specialty>Computer Science</specialty>
+      <fn>62326</fn>
+      <exams>
+          <exam>Geometry</exam>
+          <exam>English</exam>
+      </exams>
+  </student>
+</students>

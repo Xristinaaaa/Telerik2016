@@ -1,0 +1,6 @@
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesInfo\bin\Debug\CategoriesInfo.exe.config
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesInfo\bin\Debug\CategoriesInfo.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesInfo\bin\Debug\CategoriesInfo.pdb
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesInfo\obj\Debug\CategoriesInfo.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesInfo\obj\Debug\CategoriesInfo.exe
+D:\Telerik2016\Databases\ADO.NET\NorthwindSQLServer\CategoriesInfo\obj\Debug\CategoriesInfo.pdb

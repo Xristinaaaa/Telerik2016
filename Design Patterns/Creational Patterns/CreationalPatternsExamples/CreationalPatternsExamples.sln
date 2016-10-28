@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExample", "SingletonExample\SingletonExample.csproj", "{D3AA0980-D362-4D32-A10E-C30A5F7A7C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodExample", "FactoryMethodExample\FactoryMethodExample.csproj", "{16FC8F62-2C36-4D82-A7FB-15E88CE2C6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderExample", "BuilderExample\BuilderExample.csproj", "{4481B57A-841C-4A66-AE86-174F15A38FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AA0980-D362-4D32-A10E-C30A5F7A7C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AA0980-D362-4D32-A10E-C30A5F7A7C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AA0980-D362-4D32-A10E-C30A5F7A7C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AA0980-D362-4D32-A10E-C30A5F7A7C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16FC8F62-2C36-4D82-A7FB-15E88CE2C6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FC8F62-2C36-4D82-A7FB-15E88CE2C6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FC8F62-2C36-4D82-A7FB-15E88CE2C6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FC8F62-2C36-4D82-A7FB-15E88CE2C6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4481B57A-841C-4A66-AE86-174F15A38FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4481B57A-841C-4A66-AE86-174F15A38FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4481B57A-841C-4A66-AE86-174F15A38FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4481B57A-841C-4A66-AE86-174F15A38FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
