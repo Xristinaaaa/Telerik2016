@@ -4,3 +4,6 @@ D:\Telerik\C# за напреднали\NumeralSystems\03.DecimalToHexademical\b
 D:\Telerik\C# за напреднали\NumeralSystems\03.DecimalToHexademical\obj\Debug\03.DecimalToHexademical.csprojResolveAssemblyReference.cache
 D:\Telerik\C# за напреднали\NumeralSystems\03.DecimalToHexademical\obj\Debug\03.DecimalToHexademical.exe
 D:\Telerik\C# за напреднали\NumeralSystems\03.DecimalToHexademical\obj\Debug\03.DecimalToHexademical.pdb
+D:\Telerik2016\C# Advanced\NumeralSystems\03.DecimalToHexademical\bin\Debug\03.DecimalToHexademical.exe.config
+D:\Telerik2016\C# Advanced\NumeralSystems\03.DecimalToHexademical\obj\Debug\03.DecimalToHexademical.exe
+D:\Telerik2016\C# Advanced\NumeralSystems\03.DecimalToHexademical\obj\Debug\03.DecimalToHexademical.pdb

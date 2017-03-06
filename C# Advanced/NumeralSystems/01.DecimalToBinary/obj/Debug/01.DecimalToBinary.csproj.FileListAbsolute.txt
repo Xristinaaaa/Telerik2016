@@ -4,3 +4,6 @@ D:\Telerik\C# за напреднали\NumeralSystems\01.DecimalToBinary\bin\De
 D:\Telerik\C# за напреднали\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.csprojResolveAssemblyReference.cache
 D:\Telerik\C# за напреднали\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.exe
 D:\Telerik\C# за напреднали\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.pdb
+D:\Telerik2016\C# Advanced\NumeralSystems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe.config
+D:\Telerik2016\C# Advanced\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.exe
+D:\Telerik2016\C# Advanced\NumeralSystems\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.pdb
