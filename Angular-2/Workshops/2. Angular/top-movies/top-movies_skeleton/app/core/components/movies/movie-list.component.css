@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin-left: 350px;
+}
+
+tr {
+    border-bottom: 1px solid grey;
+}
+
+td {
+    width: 200px;
+    padding: 7px;
+}
+
+.form-control {
+    width: 250px;
+}
+
+.search {
+    margin-left: 440px;
+}
+
+#search-box {
+    width: 580px;
+}
+
+.pipes {
+    margin-left: 455px;
+}
+
+.order,
+.sort {
+    display: inline-block;
+    padding-left: 20px;
+}

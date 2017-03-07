@@ -1,0 +1,6 @@
+SELECT s.Name [Species], COUNT(p.SpeciesId) [Products]
+FROM Species s
+INNER JOIN Product p
+ON s.Id= p.SpeciesId
+GROUP BY s.Name
+ORDER BY Products ASC

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4c556fe7114843e1981c0b727abab524" Name="Diagram1">
+        <EntityTypeShape EntityType="ComputersModel.Computer" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ComputersModel.ComputerType" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ComputersModel.CPU" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ComputersModel.GPU" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ComputersModel.GPUType" Width="1.5" PointX="0.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ComputersModel.StorageDevice" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ComputersModel.StorageType" Width="1.5" PointX="0.75" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ComputersModel.sysdiagram" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <AssociationConnector Association="ComputersModel.FK_Computer_ComputerType" ManuallyRouted="false" />
+        <AssociationConnector Association="ComputersModel.FK_Computer_CPU" ManuallyRouted="false" />
+        <AssociationConnector Association="ComputersModel.FK_Computer_GPU" ManuallyRouted="false" />
+        <AssociationConnector Association="ComputersModel.FK_Computer_StorageDevice" ManuallyRouted="false" />
+        <AssociationConnector Association="ComputersModel.FK_GPU_GPUType" ManuallyRouted="false" />
+        <AssociationConnector Association="ComputersModel.FK_StorageDevice_StorageType" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

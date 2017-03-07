@@ -1,0 +1,12 @@
+D:\User\Desktop\New folder\ASP.NET-Web-Forms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\bin\Binding-List-Controls.dll.config
+D:\User\Desktop\New folder\ASP.NET-Web-Forms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\bin\Binding-List-Controls.dll
+D:\User\Desktop\New folder\ASP.NET-Web-Forms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\bin\Binding-List-Controls.pdb
+D:\User\Desktop\New folder\ASP.NET-Web-Forms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\obj\Debug\2. Binding-List-Controls.csprojResolveAssemblyReference.cache
+D:\User\Desktop\New folder\ASP.NET-Web-Forms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\obj\Debug\Binding-List-Controls.dll
+D:\User\Desktop\New folder\ASP.NET-Web-Forms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\obj\Debug\Binding-List-Controls.pdb
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\bin\Binding-List-Controls.dll.config
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\bin\Binding-List-Controls.dll
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\bin\Binding-List-Controls.pdb
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\obj\Debug\2. Binding-List-Controls.csprojResolveAssemblyReference.cache
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\obj\Debug\Binding-List-Controls.dll
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Binding-List-Controls\obj\Debug\Binding-List-Controls.pdb

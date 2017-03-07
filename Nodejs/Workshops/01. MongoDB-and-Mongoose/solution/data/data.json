@@ -1,0 +1,24 @@
+[{
+    "firstName": "Ivan",
+    "middleName": "Ivanov",
+    "lastName": "Petrov",
+    "insuranceNumber": "123",
+    "age": 32,
+    "contactDetails": {
+        "phoneNumber": "234 567 237",
+        "email": "i.ivanov@gmail.com",
+        "workroomNumber": 10
+    },
+    "itemsForSale": [{
+            "itemName": "Samsung S3",
+            "price": 300,
+            "offerType": "For sale"
+        },
+        {
+            "itemName": "asdfaff",
+            "price": 10,
+            "offerType": "For sale"
+        }
+    ],
+    "itemsReceived": null
+}]

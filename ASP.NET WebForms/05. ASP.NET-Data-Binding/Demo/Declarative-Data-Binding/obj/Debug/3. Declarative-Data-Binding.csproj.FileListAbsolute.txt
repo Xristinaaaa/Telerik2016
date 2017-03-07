@@ -1,0 +1,6 @@
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Declarative-Data-Binding\bin\Declarative-Data-Binding.dll.config
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Declarative-Data-Binding\bin\Declarative-Data-Binding.dll
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Declarative-Data-Binding\bin\Declarative-Data-Binding.pdb
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Declarative-Data-Binding\obj\Debug\3. Declarative-Data-Binding.csprojResolveAssemblyReference.cache
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Declarative-Data-Binding\obj\Debug\Declarative-Data-Binding.dll
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Declarative-Data-Binding\obj\Debug\Declarative-Data-Binding.pdb

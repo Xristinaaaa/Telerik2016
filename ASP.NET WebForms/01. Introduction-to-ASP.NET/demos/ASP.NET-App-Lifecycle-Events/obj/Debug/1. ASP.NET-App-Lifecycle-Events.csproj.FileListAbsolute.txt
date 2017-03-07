@@ -1,0 +1,6 @@
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\demos\ASP.NET-App-Lifecycle-Events\bin\ASP.NET-App-Lifecycle-Events.dll.config
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\demos\ASP.NET-App-Lifecycle-Events\bin\ASP.NET-App-Lifecycle-Events.dll
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\demos\ASP.NET-App-Lifecycle-Events\bin\ASP.NET-App-Lifecycle-Events.pdb
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\demos\ASP.NET-App-Lifecycle-Events\obj\Debug\1. ASP.NET-App-Lifecycle-Events.csprojResolveAssemblyReference.cache
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\demos\ASP.NET-App-Lifecycle-Events\obj\Debug\ASP.NET-App-Lifecycle-Events.dll
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\demos\ASP.NET-App-Lifecycle-Events\obj\Debug\ASP.NET-App-Lifecycle-Events.pdb

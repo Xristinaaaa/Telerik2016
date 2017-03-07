@@ -1,0 +1,6 @@
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Data-Binding-Simple-Example\bin\Data-Binding-Simple-Example.dll.config
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Data-Binding-Simple-Example\bin\Data-Binding-Simple-Example.dll
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Data-Binding-Simple-Example\bin\Data-Binding-Simple-Example.pdb
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Data-Binding-Simple-Example\obj\Debug\1. Data-Binding-Simple-Example.csprojResolveAssemblyReference.cache
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Data-Binding-Simple-Example\obj\Debug\Data-Binding-Simple-Example.dll
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Data-Binding-Simple-Example\obj\Debug\Data-Binding-Simple-Example.pdb

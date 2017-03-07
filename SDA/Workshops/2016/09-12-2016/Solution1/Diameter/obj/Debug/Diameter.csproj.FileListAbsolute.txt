@@ -1,0 +1,6 @@
+D:\Telerik2016\SDA\Workshops\2016\09-12-2016\Solution1\Diameter\bin\Debug\Diameter.exe.config
+D:\Telerik2016\SDA\Workshops\2016\09-12-2016\Solution1\Diameter\bin\Debug\Diameter.exe
+D:\Telerik2016\SDA\Workshops\2016\09-12-2016\Solution1\Diameter\bin\Debug\Diameter.pdb
+D:\Telerik2016\SDA\Workshops\2016\09-12-2016\Solution1\Diameter\obj\Debug\Diameter.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\Workshops\2016\09-12-2016\Solution1\Diameter\obj\Debug\Diameter.exe
+D:\Telerik2016\SDA\Workshops\2016\09-12-2016\Solution1\Diameter\obj\Debug\Diameter.pdb

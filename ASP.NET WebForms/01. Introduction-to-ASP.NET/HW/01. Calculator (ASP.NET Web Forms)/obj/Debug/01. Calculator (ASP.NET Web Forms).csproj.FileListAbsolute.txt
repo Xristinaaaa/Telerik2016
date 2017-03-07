@@ -1,0 +1,6 @@
+D:\User\Desktop\New folder (2)\01. Calculator (ASP.NET Web Forms)\bin\CalculatorWebForms.dll.config
+D:\User\Desktop\New folder (2)\01. Calculator (ASP.NET Web Forms)\bin\CalculatorWebForms.dll
+D:\User\Desktop\New folder (2)\01. Calculator (ASP.NET Web Forms)\bin\CalculatorWebForms.pdb
+D:\User\Desktop\New folder (2)\01. Calculator (ASP.NET Web Forms)\obj\Debug\01. Calculator (ASP.NET Web Forms).csprojResolveAssemblyReference.cache
+D:\User\Desktop\New folder (2)\01. Calculator (ASP.NET Web Forms)\obj\Debug\CalculatorWebForms.dll
+D:\User\Desktop\New folder (2)\01. Calculator (ASP.NET Web Forms)\obj\Debug\CalculatorWebForms.pdb

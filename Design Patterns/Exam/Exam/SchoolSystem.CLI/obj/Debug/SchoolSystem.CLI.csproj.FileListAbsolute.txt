@@ -1,0 +1,12 @@
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.exe.config
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.exe
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.pdb
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.dll
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Conventions.dll
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Framework.dll
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\bin\Debug\SchoolSystem.Framework.pdb
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.xml
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Conventions.xml
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\obj\Debug\SchoolSystem.CLI.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\obj\Debug\SchoolSystem.Cli.exe
+D:\Telerik2016\Design Patterns\Exam\Exam\SchoolSystem.CLI\obj\Debug\SchoolSystem.Cli.pdb

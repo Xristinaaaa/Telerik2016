@@ -1,0 +1,5 @@
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\List-Simple-Example\bin\Debug\List-Simple-Example.exe
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\List-Simple-Example\bin\Debug\List-Simple-Example.pdb
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\List-Simple-Example\obj\Debug\1. List - Simple Example.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\List-Simple-Example\obj\Debug\List-Simple-Example.exe
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\List-Simple-Example\obj\Debug\List-Simple-Example.pdb

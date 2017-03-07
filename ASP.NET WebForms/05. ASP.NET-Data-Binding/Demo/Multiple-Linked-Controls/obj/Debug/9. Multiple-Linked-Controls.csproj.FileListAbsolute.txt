@@ -1,0 +1,6 @@
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Multiple-Linked-Controls\bin\Multiple-Linked-Controls.dll.config
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Multiple-Linked-Controls\bin\Multiple-Linked-Controls.dll
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Multiple-Linked-Controls\bin\Multiple-Linked-Controls.pdb
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Multiple-Linked-Controls\obj\Debug\9. Multiple-Linked-Controls.csprojResolveAssemblyReference.cache
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Multiple-Linked-Controls\obj\Debug\Multiple-Linked-Controls.dll
+D:\Telerik2016\ASP.NET WebForms\05. ASP.NET-Data-Binding\Demo\Multiple-Linked-Controls\obj\Debug\Multiple-Linked-Controls.pdb

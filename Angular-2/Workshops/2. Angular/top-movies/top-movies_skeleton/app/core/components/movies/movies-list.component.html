@@ -1,0 +1,36 @@
+<h1>Top 10 iMDB Movies</h1>
+<br>
+<div class="search">
+    <label for="filter">Search</label>
+    <input class="form-control" id="search-box" [(ngModel)]="searchBox.value" (change)="onSearch(searchBox.value)" #searchBox />
+</div>
+<br>
+<div class="pipes">
+    <div class="sort">
+        <label for="sort">Sort</label>
+        <select class="form-control" id="sort" (change)="onSort([selectedSort.selectedOptions[0].value])" #selectedSort>
+            <option value="Title" selectedSort>Title</option>
+            <option value="Rating">Rating</option>
+            <option value="Year">Year</option>
+        </select>
+    </div>
+    <div class="order">
+        <label for="order">Order</label>
+        <select class="form-control" id="order" (change)="onOrder([selectedOrder.selectedOptions[0].value])" #selectedOrder>
+            <option value="Asc" selectedOrder>Asc</option>
+            <option value="Desc">Desc</option>
+        </select>
+    </div>
+</div>
+<br>
+<table>
+    <tbody>
+        <tr>
+            <td><label>Poster</label></td>
+            <td><label>Title</label></td>
+            <td><label>Year</label></td>
+            <td><label>ImdbRating</label></td>
+        </tr>
+        <tr mvdb-movie-short *ngFor="let movie of (movies | sort: [selectedSort.selectedOptions[0].value] | order: [selectedOrder.selectedOptions[0].value] | filter: searchBox.value)" [movie]="movie "></tr>
+    </tbody>
+</table>

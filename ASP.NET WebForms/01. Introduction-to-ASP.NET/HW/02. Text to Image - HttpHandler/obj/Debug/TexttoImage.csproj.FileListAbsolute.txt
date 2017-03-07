@@ -1,0 +1,5 @@
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\02. Text to Image - HttpHandler\bin\TextToImageHttpHandler.dll.config
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\02. Text to Image - HttpHandler\bin\TextToImageHttpHandler.dll
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\02. Text to Image - HttpHandler\bin\TextToImageHttpHandler.pdb
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\02. Text to Image - HttpHandler\obj\Debug\TextToImageHttpHandler.dll
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\02. Text to Image - HttpHandler\obj\Debug\TextToImageHttpHandler.pdb

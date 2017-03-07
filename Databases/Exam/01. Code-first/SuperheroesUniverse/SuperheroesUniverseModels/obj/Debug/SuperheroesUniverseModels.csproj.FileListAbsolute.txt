@@ -1,0 +1,12 @@
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\bin\Debug\SuperheroesUniverseModels.dll.config
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\bin\Debug\SuperheroesUniverseModels.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\bin\Debug\SuperheroesUniverseModels.pdb
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\bin\Debug\EntityFramework.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\bin\Debug\EntityFramework.xml
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\obj\Debug\SuperheroesUniverseModels.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\obj\Debug\SuperheroesUniverseModels.pdb
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\obj\Debug\SuperheroesUniverseModels.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\bin\Debug\Newtonsoft.Json.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverseModels\bin\Debug\Newtonsoft.Json.xml

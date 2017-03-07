@@ -1,0 +1,12 @@
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\bin\Debug\ComputersData.Importer.dll.config
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\bin\Debug\ComputersData.Importer.dll
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\bin\Debug\ComputersData.Importer.pdb
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\bin\Debug\ComputersData.Data.dll
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\bin\Debug\EntityFramework.dll
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\bin\Debug\ComputersData.Data.pdb
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\bin\Debug\EntityFramework.xml
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\obj\Debug\ComputersData.Importer.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\obj\Debug\ComputersData.Importer.dll
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.Importer\obj\Debug\ComputersData.Importer.pdb

@@ -1,0 +1,1 @@
+D:\Telerik2016\Design Patterns\Structural Patterns\StructuralPatternsExamples\FlyweightExample\bin\Debug\FlyweightExample.exe.config

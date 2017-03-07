@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDatabase", "CreateDatabase\CreateDatabase.csproj", "{BD85DAAC-00DB-4652-8434-E3D3A267C2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseDatabase", "UseDatabase\UseDatabase.csproj", "{A3DAA19A-7E9E-4726-ADA6-CF6C9321265B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD85DAAC-00DB-4652-8434-E3D3A267C2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD85DAAC-00DB-4652-8434-E3D3A267C2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD85DAAC-00DB-4652-8434-E3D3A267C2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD85DAAC-00DB-4652-8434-E3D3A267C2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DAA19A-7E9E-4726-ADA6-CF6C9321265B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DAA19A-7E9E-4726-ADA6-CF6C9321265B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DAA19A-7E9E-4726-ADA6-CF6C9321265B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DAA19A-7E9E-4726-ADA6-CF6C9321265B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

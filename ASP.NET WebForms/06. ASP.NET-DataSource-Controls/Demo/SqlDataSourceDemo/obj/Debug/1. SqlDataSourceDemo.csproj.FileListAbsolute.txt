@@ -1,0 +1,6 @@
+D:\Telerik2016\ASP.NET WebForms\06. ASP.NET-DataSource-Controls\Demo\SqlDataSourceDemo\bin\SqlDataSourceDemo.dll.config
+D:\Telerik2016\ASP.NET WebForms\06. ASP.NET-DataSource-Controls\Demo\SqlDataSourceDemo\bin\SqlDataSourceDemo.dll
+D:\Telerik2016\ASP.NET WebForms\06. ASP.NET-DataSource-Controls\Demo\SqlDataSourceDemo\bin\SqlDataSourceDemo.pdb
+D:\Telerik2016\ASP.NET WebForms\06. ASP.NET-DataSource-Controls\Demo\SqlDataSourceDemo\obj\Debug\1. SqlDataSourceDemo.csprojResolveAssemblyReference.cache
+D:\Telerik2016\ASP.NET WebForms\06. ASP.NET-DataSource-Controls\Demo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.dll
+D:\Telerik2016\ASP.NET WebForms\06. ASP.NET-DataSource-Controls\Demo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.pdb

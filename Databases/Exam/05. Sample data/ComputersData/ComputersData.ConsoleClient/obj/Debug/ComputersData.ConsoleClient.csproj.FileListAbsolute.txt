@@ -1,0 +1,14 @@
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\ComputersData.ConsoleClient.exe.config
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\obj\Debug\ComputersData.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\ComputersData.ConsoleClient.exe
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\ComputersData.ConsoleClient.pdb
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\ComputersData.Data.dll
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\ComputersData.Importer.dll
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\ComputersData.Data.pdb
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\ComputersData.Importer.pdb
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\obj\Debug\ComputersData.ConsoleClient.exe
+D:\Telerik2016\Databases\Exam\05. Sample data\ComputersData\ComputersData.ConsoleClient\obj\Debug\ComputersData.ConsoleClient.pdb

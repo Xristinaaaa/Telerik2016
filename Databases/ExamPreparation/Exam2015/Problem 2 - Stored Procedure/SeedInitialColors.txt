@@ -1,0 +1,17 @@
+USE PetStore
+GO
+
+CREATE PROC dbo.usp_SeedInitialColors
+AS
+	DECLARE @ColorsCount AS INT
+	SET @ColorsCount = (SELECT COUNT(*) FROM Color)
+
+	IF @ColorsCount = 0
+	BEGIN
+		INSERT INTO Color(Name)
+		VALUES('Black'), ('White'), ('Red'), ('Mixed')
+	END
+GO
+
+EXEC usp_SeedInitialColors
+GO

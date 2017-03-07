@@ -1,0 +1,6 @@
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\ExchangeRates\bin\Debug\ExchangeRates.exe.config
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\ExchangeRates\bin\Debug\ExchangeRates.exe
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\ExchangeRates\bin\Debug\ExchangeRates.pdb
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\ExchangeRates\obj\Debug\ExchangeRates.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\ExchangeRates\obj\Debug\ExchangeRates.exe
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\ExchangeRates\obj\Debug\ExchangeRates.pdb

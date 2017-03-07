@@ -1,0 +1,5 @@
+D:\User\Desktop\Exan-Solution\SchoolSystem.Framework\bin\Debug\SchoolSystem.Framework.dll
+D:\User\Desktop\Exan-Solution\SchoolSystem.Framework\bin\Debug\SchoolSystem.Framework.pdb
+D:\User\Desktop\Exan-Solution\SchoolSystem.Framework\obj\Debug\SchoolSystem.Framework.csprojResolveAssemblyReference.cache
+D:\User\Desktop\Exan-Solution\SchoolSystem.Framework\obj\Debug\SchoolSystem.Framework.dll
+D:\User\Desktop\Exan-Solution\SchoolSystem.Framework\obj\Debug\SchoolSystem.Framework.pdb

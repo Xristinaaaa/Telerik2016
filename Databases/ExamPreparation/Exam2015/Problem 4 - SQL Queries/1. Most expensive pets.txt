@@ -1,0 +1,4 @@
+SELECT TOP 5 p.Price, p.Breed, p.BirthDateTime
+FROM Pet p
+WHERE YEAR(p.BirthDateTime) > 2012
+ORDER BY p.Price DESC 

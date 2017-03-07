@@ -1,0 +1,12 @@
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\bin\Debug\UseDatabase.exe.config
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\bin\Debug\UseDatabase.exe
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\bin\Debug\UseDatabase.pdb
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\bin\Debug\EntityFramework.dll
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\bin\Debug\EntityFramework.xml
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\obj\Debug\UseDatabase.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\obj\Debug\UseDatabase.exe
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\obj\Debug\UseDatabase.pdb
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\bin\Debug\CreateDatabase.exe
+D:\Telerik2016\Databases\EntityFrameworkCodeFirst\UseDatabase\bin\Debug\CreateDatabase.pdb

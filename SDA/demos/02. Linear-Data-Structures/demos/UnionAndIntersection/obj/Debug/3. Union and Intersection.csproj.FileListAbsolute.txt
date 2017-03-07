@@ -1,0 +1,4 @@
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\UnionAndIntersection\bin\Debug\UnionAndIntersection.exe
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\UnionAndIntersection\bin\Debug\UnionAndIntersection.pdb
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\UnionAndIntersection\obj\Debug\UnionAndIntersection.exe
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\UnionAndIntersection\obj\Debug\UnionAndIntersection.pdb

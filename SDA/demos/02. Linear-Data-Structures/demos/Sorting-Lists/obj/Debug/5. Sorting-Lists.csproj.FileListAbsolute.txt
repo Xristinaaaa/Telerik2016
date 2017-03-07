@@ -1,0 +1,5 @@
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sorting-Lists\bin\Debug\Sorting-Lists.exe
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sorting-Lists\bin\Debug\Sorting-Lists.pdb
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sorting-Lists\obj\Debug\5. Sorting-Lists.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sorting-Lists\obj\Debug\Sorting-Lists.exe
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sorting-Lists\obj\Debug\Sorting-Lists.pdb

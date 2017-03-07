@@ -1,0 +1,10 @@
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\bin\Debug\EFNorthwind.exe.config
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\bin\Debug\EFNorthwind.exe
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\bin\Debug\EFNorthwind.pdb
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\bin\Debug\EntityFramework.dll
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\bin\Debug\EntityFramework.xml
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\obj\Debug\EFNorthwind.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\obj\Debug\EFNorthwind.exe
+D:\Telerik2016\Databases\EntityFramework\EFNorthwind\obj\Debug\EFNorthwind.pdb

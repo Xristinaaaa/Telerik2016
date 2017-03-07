@@ -1,0 +1,5 @@
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Kruskal\bin\Debug\Kruskal.exe.config
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Kruskal\bin\Debug\Kruskal.exe
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Kruskal\bin\Debug\Kruskal.pdb
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Kruskal\obj\Debug\Kruskal.exe
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Kruskal\obj\Debug\Kruskal.pdb

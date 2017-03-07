@@ -1,0 +1,17 @@
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\SuperheroesUniverse.ConsoleClient.exe.config
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\SuperheroesUniverse.ConsoleClient.exe
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\SuperheroesUniverse.ConsoleClient.pdb
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\SuperheroesUniverseData.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\SuperheroesUniverseModels.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\SuperheroesUniverseData.pdb
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\SuperheroesUniverseModels.pdb
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\obj\Debug\SuperheroesUniverse.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\obj\Debug\SuperheroesUniverse.ConsoleClient.exe
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\obj\Debug\SuperheroesUniverse.ConsoleClient.pdb
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+D:\Telerik2016\Databases\Exam\01. Code-first\SuperheroesUniverse\SuperheroesUniverse.ConsoleClient\bin\Debug\sample-data.json

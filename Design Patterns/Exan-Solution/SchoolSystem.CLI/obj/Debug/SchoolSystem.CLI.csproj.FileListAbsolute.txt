@@ -1,0 +1,23 @@
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.exe.config
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.exe
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.pdb
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Castle.Core.dll
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.dll
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Conventions.dll
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Factory.dll
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Interception.dll
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Interception.DynamicProxy.dll
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\SchoolSystem.Framework.dll
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\SchoolSystem.Framework.pdb
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Castle.Core.xml
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.xml
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Conventions.xml
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Factory.xml
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Interception.xml
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\bin\Debug\Ninject.Extensions.Interception.DynamicProxy.xml
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\obj\Debug\SchoolSystem.CLI.csprojResolveAssemblyReference.cache
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\obj\Debug\SchoolSystem.Cli.exe
+D:\User\Desktop\Exan-Solution\SchoolSystem.CLI\obj\Debug\SchoolSystem.Cli.pdb
+D:\Telerik2016\Design Patterns\Exan-Solution\SchoolSystem.CLI\bin\Debug\SchoolSystem.Cli.exe.config
+D:\Telerik2016\Design Patterns\Exan-Solution\SchoolSystem.CLI\obj\Debug\SchoolSystem.Cli.exe
+D:\Telerik2016\Design Patterns\Exan-Solution\SchoolSystem.CLI\obj\Debug\SchoolSystem.Cli.pdb

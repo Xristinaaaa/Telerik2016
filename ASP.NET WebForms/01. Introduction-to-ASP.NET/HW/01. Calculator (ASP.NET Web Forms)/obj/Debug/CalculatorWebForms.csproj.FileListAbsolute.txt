@@ -1,0 +1,6 @@
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\01. Calculator (ASP.NET Web Forms)\bin\CalculatorWebForms.dll.config
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\01. Calculator (ASP.NET Web Forms)\bin\CalculatorWebForms.dll
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\01. Calculator (ASP.NET Web Forms)\bin\CalculatorWebForms.pdb
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\01. Calculator (ASP.NET Web Forms)\obj\Debug\CalculatorWebForms.csprojResolveAssemblyReference.cache
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\01. Calculator (ASP.NET Web Forms)\obj\Debug\CalculatorWebForms.dll
+D:\Telerik2016\ASP.NET WebForms\01. Introduction-to-ASP.NET\HW\01. Calculator (ASP.NET Web Forms)\obj\Debug\CalculatorWebForms.pdb

@@ -1,0 +1,9 @@
+[23.01.2017 18:09:55 ч.] Application_Start Called.
+[23.01.2017 18:09:56 ч.] Application_BeginRequest Called.
+[23.01.2017 18:09:56 ч.] Application_AuthenticateRequest Called.
+[23.01.2017 18:09:59 ч.] Session_Start Called.
+[23.01.2017 18:10:00 ч.] Application_EndRequest Called.
+[23.01.2017 18:10:03 ч.] Application_BeginRequest Called.
+[23.01.2017 18:10:03 ч.] Application_AuthenticateRequest Called.
+[23.01.2017 18:10:04 ч.] Application_EndRequest Called.
+[23.01.2017 18:30:20 ч.] Session_End Called.

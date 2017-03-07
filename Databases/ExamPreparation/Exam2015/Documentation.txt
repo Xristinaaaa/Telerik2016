@@ -1,0 +1,16 @@
+Connection string for "PetStore" database:
+	metadata=res://*/PetStoreEntities.csdl|res://*/PetStoreEntities.ssdl|res://*/PetStoreEntities.msl;provider=System.Data.SqlClient;provider connection string="data source=.;initial catalog=PetStore;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework"
+
+Connection string for "SocialNetwork" database:
+	(fill in here)
+
+Relationships for "PetStore" database: 
+	Pet-Species - one-to-many
+	Pet-Color - many-to-one
+	Product-Species - one-to-many
+	Product-Category - many-to-one	
+
+Relationships for "SocialNetwork" database: 
+	(fill in here)
+	
+JSON Result files location: (fill in here)
