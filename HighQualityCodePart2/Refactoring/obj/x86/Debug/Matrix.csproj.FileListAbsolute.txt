@@ -1,2 +1,0 @@
-D:\Telerik2016\HighQualityCodePart2\Refactoring\obj\x86\Debug\GameFifteen.exe
-D:\Telerik2016\HighQualityCodePart2\Refactoring\obj\x86\Debug\GameFifteen.pdb

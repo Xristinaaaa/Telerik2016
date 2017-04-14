@@ -1,6 +1,0 @@
-D:\Telerik2016\HighQualityCodePart2\Code Tuning and Optimization\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.exe.config
-D:\Telerik2016\HighQualityCodePart2\Code Tuning and Optimization\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.exe
-D:\Telerik2016\HighQualityCodePart2\Code Tuning and Optimization\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.pdb
-D:\Telerik2016\HighQualityCodePart2\Code Tuning and Optimization\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.csprojResolveAssemblyReference.cache
-D:\Telerik2016\HighQualityCodePart2\Code Tuning and Optimization\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.exe
-D:\Telerik2016\HighQualityCodePart2\Code Tuning and Optimization\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.pdb

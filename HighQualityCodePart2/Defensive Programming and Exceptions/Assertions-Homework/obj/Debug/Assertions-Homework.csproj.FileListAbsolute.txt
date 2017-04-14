@@ -1,5 +1,0 @@
-D:\Telerik2016\HighQualityCodePart2\Defensive Programming and Exceptions\Assertions-Homework\bin\Debug\Assertions-Homework.exe
-D:\Telerik2016\HighQualityCodePart2\Defensive Programming and Exceptions\Assertions-Homework\bin\Debug\Assertions-Homework.pdb
-D:\Telerik2016\HighQualityCodePart2\Defensive Programming and Exceptions\Assertions-Homework\obj\Debug\Assertions-Homework.csprojResolveAssemblyReference.cache
-D:\Telerik2016\HighQualityCodePart2\Defensive Programming and Exceptions\Assertions-Homework\obj\Debug\Assertions-Homework.exe
-D:\Telerik2016\HighQualityCodePart2\Defensive Programming and Exceptions\Assertions-Homework\obj\Debug\Assertions-Homework.pdb

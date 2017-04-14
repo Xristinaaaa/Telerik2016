@@ -1,6 +1,0 @@
-D:\Telerik2016\HighQualityCodePart2\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe.config
-D:\Telerik2016\HighQualityCodePart2\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe
-D:\Telerik2016\HighQualityCodePart2\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.pdb
-D:\Telerik2016\HighQualityCodePart2\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.csprojResolveAssemblyReference.cache
-D:\Telerik2016\HighQualityCodePart2\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.exe
-D:\Telerik2016\HighQualityCodePart2\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.pdb
