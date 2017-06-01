@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Swapping", "1.Swapping\1.Swapping.csproj", "{A2109C55-6BD9-4619-B768-24707F27C65E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conference", "Conference\Conference.csproj", "{DEC5D0F5-97A4-4958-AD87-D41F4DA781A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guards", "Guards\Guards.csproj", "{1A921DC2-CBCC-47C0-A801-071BB99348CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2109C55-6BD9-4619-B768-24707F27C65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2109C55-6BD9-4619-B768-24707F27C65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2109C55-6BD9-4619-B768-24707F27C65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2109C55-6BD9-4619-B768-24707F27C65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC5D0F5-97A4-4958-AD87-D41F4DA781A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC5D0F5-97A4-4958-AD87-D41F4DA781A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC5D0F5-97A4-4958-AD87-D41F4DA781A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC5D0F5-97A4-4958-AD87-D41F4DA781A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A921DC2-CBCC-47C0-A801-071BB99348CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A921DC2-CBCC-47C0-A801-071BB99348CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A921DC2-CBCC-47C0-A801-071BB99348CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A921DC2-CBCC-47C0-A801-071BB99348CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

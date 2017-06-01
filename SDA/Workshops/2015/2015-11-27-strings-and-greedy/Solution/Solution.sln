@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatingPattern", "RepeatingPattern\RepeatingPattern.csproj", "{3EF7A40F-E0C1-4AEC-B1F1-3DCE6071DDC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbits", "Rabbits\Rabbits.csproj", "{03C18915-AF7A-4C7A-943F-39162A6F02ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromize", "Palindromize\Palindromize.csproj", "{0886A2BD-D80B-40D9-9828-89DB70AE7F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF7A40F-E0C1-4AEC-B1F1-3DCE6071DDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF7A40F-E0C1-4AEC-B1F1-3DCE6071DDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF7A40F-E0C1-4AEC-B1F1-3DCE6071DDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF7A40F-E0C1-4AEC-B1F1-3DCE6071DDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C18915-AF7A-4C7A-943F-39162A6F02ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C18915-AF7A-4C7A-943F-39162A6F02ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C18915-AF7A-4C7A-943F-39162A6F02ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C18915-AF7A-4C7A-943F-39162A6F02ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0886A2BD-D80B-40D9-9828-89DB70AE7F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0886A2BD-D80B-40D9-9828-89DB70AE7F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0886A2BD-D80B-40D9-9828-89DB70AE7F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0886A2BD-D80B-40D9-9828-89DB70AE7F05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

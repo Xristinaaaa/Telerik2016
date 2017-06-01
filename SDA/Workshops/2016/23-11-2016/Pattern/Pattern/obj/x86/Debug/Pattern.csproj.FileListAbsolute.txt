@@ -1,0 +1,5 @@
+D:\Telerik2016\SDA\Workshops\2016\23-11-2016\Pattern\Pattern\bin\Debug\Pattern.exe
+D:\Telerik2016\SDA\Workshops\2016\23-11-2016\Pattern\Pattern\bin\Debug\Pattern.pdb
+D:\Telerik2016\SDA\Workshops\2016\23-11-2016\Pattern\Pattern\obj\x86\Debug\Pattern.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\Workshops\2016\23-11-2016\Pattern\Pattern\obj\x86\Debug\Pattern.exe
+D:\Telerik2016\SDA\Workshops\2016\23-11-2016\Pattern\Pattern\obj\x86\Debug\Pattern.pdb

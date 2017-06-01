@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldFever", "GoldFever\GoldFever.csproj", "{E8B981A1-DF0E-43A2-98B4-7EF476C7BBE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerRanking", "PlayerRanking\PlayerRanking.csproj", "{B2E15334-14A9-4925-ABAA-A762C525A5F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheRings", "TheRings\TheRings.csproj", "{85B88AC3-382D-4330-9AA3-EB2827BA6D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8B981A1-DF0E-43A2-98B4-7EF476C7BBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B981A1-DF0E-43A2-98B4-7EF476C7BBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B981A1-DF0E-43A2-98B4-7EF476C7BBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B981A1-DF0E-43A2-98B4-7EF476C7BBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E15334-14A9-4925-ABAA-A762C525A5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E15334-14A9-4925-ABAA-A762C525A5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E15334-14A9-4925-ABAA-A762C525A5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E15334-14A9-4925-ABAA-A762C525A5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B88AC3-382D-4330-9AA3-EB2827BA6D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B88AC3-382D-4330-9AA3-EB2827BA6D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B88AC3-382D-4330-9AA3-EB2827BA6D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B88AC3-382D-4330-9AA3-EB2827BA6D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

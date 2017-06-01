@@ -1,0 +1,6 @@
+D:\Telerik2016\SDA\Exam2\Solution1\1.Swapping\bin\Debug\1.Swapping.exe.config
+D:\Telerik2016\SDA\Exam2\Solution1\1.Swapping\bin\Debug\1.Swapping.exe
+D:\Telerik2016\SDA\Exam2\Solution1\1.Swapping\bin\Debug\1.Swapping.pdb
+D:\Telerik2016\SDA\Exam2\Solution1\1.Swapping\obj\Debug\1.Swapping.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\Exam2\Solution1\1.Swapping\obj\Debug\1.Swapping.exe
+D:\Telerik2016\SDA\Exam2\Solution1\1.Swapping\obj\Debug\1.Swapping.pdb

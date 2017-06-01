@@ -1,4 +1,4 @@
-﻿using SchoolSystem.Framework.Core.Contracts;
+﻿using System;
 
 namespace SchoolSystem.Framework.Core.Commands.Contracts
 {

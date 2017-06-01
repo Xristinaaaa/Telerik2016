@@ -1,0 +1,6 @@
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Doge\bin\Debug\Doge.exe.config
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Doge\bin\Debug\Doge.exe
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Doge\bin\Debug\Doge.pdb
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Doge\obj\Debug\Doge.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Doge\obj\Debug\Doge.exe
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Doge\obj\Debug\Doge.pdb

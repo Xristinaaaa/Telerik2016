@@ -1,0 +1,6 @@
+D:\Telerik2016\SDA\Exam\Solution\GoldFever\bin\Debug\GoldFever.exe.config
+D:\Telerik2016\SDA\Exam\Solution\GoldFever\bin\Debug\GoldFever.exe
+D:\Telerik2016\SDA\Exam\Solution\GoldFever\bin\Debug\GoldFever.pdb
+D:\Telerik2016\SDA\Exam\Solution\GoldFever\obj\Debug\GoldFever.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\Exam\Solution\GoldFever\obj\Debug\GoldFever.exe
+D:\Telerik2016\SDA\Exam\Solution\GoldFever\obj\Debug\GoldFever.pdb

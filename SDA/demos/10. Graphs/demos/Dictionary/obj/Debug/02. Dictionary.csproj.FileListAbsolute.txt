@@ -1,0 +1,6 @@
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Dictionary\bin\Debug\Dictionary.exe
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Dictionary\bin\Debug\Dictionary.pdb
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Dictionary\obj\Debug\02. Dictionary.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Dictionary\obj\Debug\Dictionary.exe
+D:\Telerik2016\SDA\demos\10. Graphs\demos\Dictionary\obj\Debug\Dictionary.pdb
