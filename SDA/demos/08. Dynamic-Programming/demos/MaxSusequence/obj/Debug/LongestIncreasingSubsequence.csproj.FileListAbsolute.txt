@@ -1,5 +1,0 @@
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\MaxSusequence\bin\Debug\LongestIncreasingSubsequence.exe
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\MaxSusequence\bin\Debug\LongestIncreasingSubsequence.pdb
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\MaxSusequence\obj\Debug\LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\MaxSusequence\obj\Debug\LongestIncreasingSubsequence.exe
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\MaxSusequence\obj\Debug\LongestIncreasingSubsequence.pdb

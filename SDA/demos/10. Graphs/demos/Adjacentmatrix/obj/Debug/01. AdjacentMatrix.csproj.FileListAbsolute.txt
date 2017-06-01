@@ -1,6 +1,0 @@
-D:\Telerik2016\SDA\demos\10. Graphs\demos\Adjacentmatrix\bin\Debug\Adjacentmatrix.exe.config
-D:\Telerik2016\SDA\demos\10. Graphs\demos\Adjacentmatrix\bin\Debug\Adjacentmatrix.exe
-D:\Telerik2016\SDA\demos\10. Graphs\demos\Adjacentmatrix\bin\Debug\Adjacentmatrix.pdb
-D:\Telerik2016\SDA\demos\10. Graphs\demos\Adjacentmatrix\obj\Debug\01. AdjacentMatrix.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\demos\10. Graphs\demos\Adjacentmatrix\obj\Debug\Adjacentmatrix.exe
-D:\Telerik2016\SDA\demos\10. Graphs\demos\Adjacentmatrix\obj\Debug\Adjacentmatrix.pdb

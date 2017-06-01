@@ -1,8 +1,0 @@
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\PriorityQueue\bin\Debug\PriorityQueue.exe.config
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\PriorityQueue\obj\Debug\PriorityQueue.exe
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\PriorityQueue\obj\Debug\PriorityQueue.pdb
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\PriorityQueue\bin\Debug\PriorityQueue.exe
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\PriorityQueue\bin\Debug\PriorityQueue.pdb
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\PriorityQueue\bin\Debug\PowerCollections.dll
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\PriorityQueue\bin\Debug\PowerCollections.xml
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\PriorityQueue\obj\Debug\1.PriorityQueue.csprojResolveAssemblyReference.cache

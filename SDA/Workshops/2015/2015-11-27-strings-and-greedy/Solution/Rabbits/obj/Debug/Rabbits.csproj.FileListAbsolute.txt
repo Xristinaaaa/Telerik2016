@@ -1,6 +1,0 @@
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\Rabbits\bin\Debug\Rabbits.exe.config
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\Rabbits\bin\Debug\Rabbits.exe
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\Rabbits\bin\Debug\Rabbits.pdb
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\Rabbits\obj\Debug\Rabbits.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\Rabbits\obj\Debug\Rabbits.exe
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\Rabbits\obj\Debug\Rabbits.pdb

@@ -1,5 +1,0 @@
-D:\Telerik2016\SDA\demos\03. Recursion\demos\PathsInLabyrinth\bin\Debug\_3.All_Paths_in_Labyrinth.exe
-D:\Telerik2016\SDA\demos\03. Recursion\demos\PathsInLabyrinth\bin\Debug\_3.All_Paths_in_Labyrinth.pdb
-D:\Telerik2016\SDA\demos\03. Recursion\demos\PathsInLabyrinth\obj\Debug\4. Paths in Labyrinth.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\demos\03. Recursion\demos\PathsInLabyrinth\obj\Debug\_3.All_Paths_in_Labyrinth.exe
-D:\Telerik2016\SDA\demos\03. Recursion\demos\PathsInLabyrinth\obj\Debug\_3.All_Paths_in_Labyrinth.pdb

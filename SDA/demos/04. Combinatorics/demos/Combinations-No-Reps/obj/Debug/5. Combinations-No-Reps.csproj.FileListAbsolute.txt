@@ -1,5 +1,0 @@
-D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations-No-Reps\bin\Debug\Combinations-No-Reps.exe
-D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations-No-Reps\bin\Debug\Combinations-No-Reps.pdb
-D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations-No-Reps\obj\Debug\5. Combinations-No-Reps.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations-No-Reps\obj\Debug\Combinations-No-Reps.exe
-D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations-No-Reps\obj\Debug\Combinations-No-Reps.pdb

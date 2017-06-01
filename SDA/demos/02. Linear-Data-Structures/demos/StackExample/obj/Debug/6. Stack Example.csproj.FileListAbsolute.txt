@@ -1,5 +1,0 @@
-D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\StackExample\bin\Debug\StackExample.exe
-D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\StackExample\bin\Debug\StackExample.pdb
-D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\StackExample\obj\Debug\6. Stack Example.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\StackExample\obj\Debug\StackExample.exe
-D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\StackExample\obj\Debug\StackExample.pdb

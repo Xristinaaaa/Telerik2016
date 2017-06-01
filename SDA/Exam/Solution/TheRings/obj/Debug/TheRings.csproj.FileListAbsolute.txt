@@ -1,6 +1,0 @@
-D:\Telerik2016\SDA\Exam\Solution\TheRings\bin\Debug\TheRings.exe.config
-D:\Telerik2016\SDA\Exam\Solution\TheRings\bin\Debug\TheRings.exe
-D:\Telerik2016\SDA\Exam\Solution\TheRings\bin\Debug\TheRings.pdb
-D:\Telerik2016\SDA\Exam\Solution\TheRings\obj\Debug\TheRings.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\Exam\Solution\TheRings\obj\Debug\TheRings.exe
-D:\Telerik2016\SDA\Exam\Solution\TheRings\obj\Debug\TheRings.pdb

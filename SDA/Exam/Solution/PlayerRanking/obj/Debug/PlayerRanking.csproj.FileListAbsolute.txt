@@ -1,6 +1,0 @@
-D:\Telerik2016\SDA\Exam\Solution\PlayerRanking\bin\Debug\PlayerRanking.exe.config
-D:\Telerik2016\SDA\Exam\Solution\PlayerRanking\bin\Debug\PlayerRanking.exe
-D:\Telerik2016\SDA\Exam\Solution\PlayerRanking\bin\Debug\PlayerRanking.pdb
-D:\Telerik2016\SDA\Exam\Solution\PlayerRanking\obj\Debug\PlayerRanking.exe
-D:\Telerik2016\SDA\Exam\Solution\PlayerRanking\obj\Debug\PlayerRanking.pdb
-D:\Telerik2016\SDA\Exam\Solution\PlayerRanking\obj\Debug\PlayerRanking.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\LongestCommonSubsequence\bin\Debug\LongestCommonSubsequence.exe
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\LongestCommonSubsequence\bin\Debug\LongestCommonSubsequence.pdb
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.exe
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.pdb

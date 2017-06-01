@@ -1,8 +1,0 @@
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\Products\bin\Debug\Products.exe.config
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\Products\bin\Debug\Products.exe
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\Products\bin\Debug\Products.pdb
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\Products\bin\Debug\PowerCollections.dll
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\Products\bin\Debug\PowerCollections.xml
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\Products\obj\Debug\2.Products.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\Products\obj\Debug\Products.exe
-D:\Telerik2016\SDA\homeworks\AdvancedDataStructures\Products\obj\Debug\Products.pdb

@@ -1,3 +1,0 @@
-D:\Telerik2016\Unit-Testing C#\Workshop-CosmeticsTests\Cosmetics\bin\Debug\Cosmetics.exe.config
-D:\Telerik2016\Unit-Testing C#\Workshop-CosmeticsTests\Cosmetics\obj\Debug\Cosmetics.exe
-D:\Telerik2016\Unit-Testing C#\Workshop-CosmeticsTests\Cosmetics\obj\Debug\Cosmetics.pdb

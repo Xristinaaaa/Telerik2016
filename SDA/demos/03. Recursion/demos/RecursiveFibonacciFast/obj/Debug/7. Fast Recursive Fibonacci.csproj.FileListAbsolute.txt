@@ -1,5 +1,0 @@
-D:\Telerik2016\SDA\demos\03. Recursion\demos\RecursiveFibonacciFast\bin\Debug\RecursiveFibonacciFast.exe
-D:\Telerik2016\SDA\demos\03. Recursion\demos\RecursiveFibonacciFast\bin\Debug\RecursiveFibonacciFast.pdb
-D:\Telerik2016\SDA\demos\03. Recursion\demos\RecursiveFibonacciFast\obj\Debug\RecursiveFibonacciFast.exe
-D:\Telerik2016\SDA\demos\03. Recursion\demos\RecursiveFibonacciFast\obj\Debug\RecursiveFibonacciFast.pdb
-D:\Telerik2016\SDA\demos\03. Recursion\demos\RecursiveFibonacciFast\obj\Debug\7. Fast Recursive Fibonacci.csprojResolveAssemblyReference.cache

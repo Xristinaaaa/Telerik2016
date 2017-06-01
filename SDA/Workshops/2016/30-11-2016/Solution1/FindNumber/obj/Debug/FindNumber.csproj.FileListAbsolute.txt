@@ -1,6 +1,0 @@
-D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\FindNumber\bin\Debug\FindNumber.exe.config
-D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\FindNumber\bin\Debug\FindNumber.exe
-D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\FindNumber\bin\Debug\FindNumber.pdb
-D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\FindNumber\obj\Debug\FindNumber.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\FindNumber\obj\Debug\FindNumber.exe
-D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\FindNumber\obj\Debug\FindNumber.pdb

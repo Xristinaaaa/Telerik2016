@@ -1,6 +1,0 @@
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\RepeatingPattern\bin\Debug\RepeatingPattern.exe.config
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\RepeatingPattern\bin\Debug\RepeatingPattern.exe
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\RepeatingPattern\bin\Debug\RepeatingPattern.pdb
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\RepeatingPattern\obj\Debug\RepeatingPattern.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\RepeatingPattern\obj\Debug\RepeatingPattern.exe
-D:\Telerik2016\SDA\Workshops\2015\2015-11-27-strings-and-greedy\Solution\RepeatingPattern\obj\Debug\RepeatingPattern.pdb

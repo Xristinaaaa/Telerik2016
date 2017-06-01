@@ -1,5 +1,0 @@
-D:\Telerik2016\SDA\demos\03. Recursion\demos\Generating01Vectors\bin\Debug\Generating01Vectors.exe
-D:\Telerik2016\SDA\demos\03. Recursion\demos\Generating01Vectors\bin\Debug\Generating01Vectors.pdb
-D:\Telerik2016\SDA\demos\03. Recursion\demos\Generating01Vectors\obj\Debug\2. Generating 0-1 Vectors.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\demos\03. Recursion\demos\Generating01Vectors\obj\Debug\Generating01Vectors.exe
-D:\Telerik2016\SDA\demos\03. Recursion\demos\Generating01Vectors\obj\Debug\Generating01Vectors.pdb

@@ -1,6 +1,0 @@
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\SubsetSumProblem\bin\Debug\SubsetSumProblem.exe.config
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\SubsetSumProblem\bin\Debug\SubsetSumProblem.exe
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\SubsetSumProblem\bin\Debug\SubsetSumProblem.pdb
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\SubsetSumProblem\obj\Debug\SubsetSumProblem.csprojResolveAssemblyReference.cache
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\SubsetSumProblem\obj\Debug\SubsetSumProblem.exe
-D:\Telerik2016\SDA\demos\08. Dynamic-Programming\demos\SubsetSumProblem\obj\Debug\SubsetSumProblem.pdb

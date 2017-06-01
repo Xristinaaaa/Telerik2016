@@ -1,5 +1,0 @@
-D:\Telerik2016\SDA\demos\10. Graphs\demos\DFSRecursiveOOPGraph\bin\Debug\DFSRecursiveOOPGraph.exe.config
-D:\Telerik2016\SDA\demos\10. Graphs\demos\DFSRecursiveOOPGraph\bin\Debug\DFSRecursiveOOPGraph.exe
-D:\Telerik2016\SDA\demos\10. Graphs\demos\DFSRecursiveOOPGraph\bin\Debug\DFSRecursiveOOPGraph.pdb
-D:\Telerik2016\SDA\demos\10. Graphs\demos\DFSRecursiveOOPGraph\obj\Debug\DFSRecursiveOOPGraph.exe
-D:\Telerik2016\SDA\demos\10. Graphs\demos\DFSRecursiveOOPGraph\obj\Debug\DFSRecursiveOOPGraph.pdb
