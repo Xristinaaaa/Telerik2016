@@ -1,0 +1,6 @@
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Precision\bin\Debug\Precision.exe.config
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Precision\bin\Debug\Precision.exe
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Precision\bin\Debug\Precision.pdb
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Precision\obj\Debug\Precision.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Precision\obj\Debug\Precision.exe
+D:\Telerik2016\SDA\Workshops\2016\30-11-2016\Solution1\Precision\obj\Debug\Precision.pdb

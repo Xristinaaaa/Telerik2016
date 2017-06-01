@@ -1,0 +1,5 @@
+D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations+Repetitions\bin\Debug\Combinations+Repetitions.exe
+D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations+Repetitions\bin\Debug\Combinations+Repetitions.pdb
+D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations+Repetitions\obj\Debug\6. Combinations+Repetitions.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations+Repetitions\obj\Debug\Combinations+Repetitions.exe
+D:\Telerik2016\SDA\demos\04. Combinatorics\demos\Combinations+Repetitions\obj\Debug\Combinations+Repetitions.pdb

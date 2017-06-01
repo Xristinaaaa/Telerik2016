@@ -29,40 +29,37 @@ namespace SchoolSystem.Cli
             {
                 x.FromAssembliesInPath(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location))
                 .SelectAllClasses()
-                .Where(type => type != typeof(Engine))
                 .BindDefaultInterface();
             });
 
-            Bind<IEngine>().To<Engine>().InSingletonScope();
-
-            Bind<IParser>().To<CommandParserProvider>();
-            Bind<IReader>().To<ConsoleReaderProvider>();
-            Bind<IWriter>().To<ConsoleWriterProvider>();
-
-            Bind<ICommand>().To<Command>();
-            Bind<ICommandFactory>().To<CommandFactory>().InSingletonScope();
-     
-            Bind<IStudentFactory>().To<StudentFactory>().InSingletonScope();
-            Bind<ITeacherFactory>().To<TeacherFactory>().InSingletonScope();
-            Bind<IMarkFactory>().To<MarkFactory>().InSingletonScope();
-
-            Bind<IPerson>().To<Person>();
-            Bind<IStudent>().To<Student>().Named(StudentName);
-            Bind<ITeacher>().To<Teacher>().Named(TeacherName);
-            Bind<IMark>().To<Mark>().Named(MarkName);
-
-            this.Bind<ICommandHandler>().To<CreateStudentCommandHandler>();
-            this.Bind<ICommandHandler>().To<CreateTeacherCommandHandler>();
-            this.Bind<ICommandHandler>().To<RemoveStudentCommandHandler>();
-            this.Bind<ICommandHandler>().To<RemoveTeacherCommandHandler>();
-            this.Bind<ICommandHandler>().To<StudentListMarksCommandHandler>();
-            this.Bind<ICommandHandler>().To<TeacherAddMarkCommandHandler>();
-
             IConfigurationProvider configurationProvider = Kernel.Get<IConfigurationProvider>();
-
             if (configurationProvider.IsTestEnvironment)
             {
-                //interception
+                Bind<IParser>().To<CommandParserProvider>();
+                Bind<IReader>().To<ConsoleReaderProvider>();
+                Bind<IWriter>().To<ConsoleWriterProvider>();
+
+                Bind<ICommand>().To<Command>();
+
+                Bind<ICommandFactory>().To<CommandFactory>().InSingletonScope();
+
+                Bind<IPerson>().To<Person>();
+                Bind<IStudent>().To<Student>().Named(StudentName);
+                Bind<ITeacher>().To<Teacher>().Named(TeacherName);
+                Bind<IMark>().To<Mark>().Named(MarkName);
+
+                Bind<IStudentFactory>().To<StudentFactory>().InSingletonScope();
+                Bind<ITeacherFactory>().To<TeacherFactory>().InSingletonScope();
+                Bind<IMarkFactory>().To<MarkFactory>().InSingletonScope();
+
+                this.Bind<ICommandHandler>().To<CreateStudentCommandHandler>();
+                this.Bind<ICommandHandler>().To<CreateTeacherCommandHandler>();
+                this.Bind<ICommandHandler>().To<RemoveStudentCommandHandler>();
+                this.Bind<ICommandHandler>().To<RemoveTeacherCommandHandler>();
+                this.Bind<ICommandHandler>().To<StudentListMarksCommandHandler>();
+                this.Bind<ICommandHandler>().To<TeacherAddMarkCommandHandler>();
+                
+                Bind<IEngine>().To<Engine>().InSingletonScope();
             }
         }
     }

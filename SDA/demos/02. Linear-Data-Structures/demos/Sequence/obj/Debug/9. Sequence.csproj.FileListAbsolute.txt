@@ -1,0 +1,5 @@
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sequence\bin\Debug\Sequence.exe
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sequence\bin\Debug\Sequence.pdb
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sequence\obj\Debug\9. Sequence.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sequence\obj\Debug\Sequence.exe
+D:\Telerik2016\SDA\demos\02. Linear-Data-Structures\demos\Sequence\obj\Debug\Sequence.pdb

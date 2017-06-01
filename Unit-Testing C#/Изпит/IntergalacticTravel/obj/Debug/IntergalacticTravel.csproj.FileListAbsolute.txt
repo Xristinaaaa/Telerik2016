@@ -1,0 +1,5 @@
+D:\Telerik2016\Компонентно тестване със C#\Изпит2\IntergalacticTravel\bin\Debug\IntergalacticTravel.dll
+D:\Telerik2016\Компонентно тестване със C#\Изпит2\IntergalacticTravel\bin\Debug\IntergalacticTravel.pdb
+D:\Telerik2016\Компонентно тестване със C#\Изпит2\IntergalacticTravel\obj\Debug\IntergalacticTravel.csprojResolveAssemblyReference.cache
+D:\Telerik2016\Компонентно тестване със C#\Изпит2\IntergalacticTravel\obj\Debug\IntergalacticTravel.dll
+D:\Telerik2016\Компонентно тестване със C#\Изпит2\IntergalacticTravel\obj\Debug\IntergalacticTravel.pdb

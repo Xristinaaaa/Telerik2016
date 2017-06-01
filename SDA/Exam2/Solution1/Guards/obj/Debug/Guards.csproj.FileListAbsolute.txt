@@ -1,0 +1,6 @@
+D:\Telerik2016\SDA\Exam2\Solution1\Guards\bin\Debug\Guards.exe.config
+D:\Telerik2016\SDA\Exam2\Solution1\Guards\bin\Debug\Guards.exe
+D:\Telerik2016\SDA\Exam2\Solution1\Guards\bin\Debug\Guards.pdb
+D:\Telerik2016\SDA\Exam2\Solution1\Guards\obj\Debug\Guards.csprojResolveAssemblyReference.cache
+D:\Telerik2016\SDA\Exam2\Solution1\Guards\obj\Debug\Guards.exe
+D:\Telerik2016\SDA\Exam2\Solution1\Guards\obj\Debug\Guards.pdb

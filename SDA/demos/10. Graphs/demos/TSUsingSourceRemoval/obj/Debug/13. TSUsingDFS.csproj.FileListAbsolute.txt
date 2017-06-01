@@ -1,0 +1,5 @@
+D:\Telerik2016\SDA\demos\10. Graphs\demos\TSUsingSourceRemoval\bin\Debug\TSUsingSourceRemoval.exe.config
+D:\Telerik2016\SDA\demos\10. Graphs\demos\TSUsingSourceRemoval\bin\Debug\TSUsingSourceRemoval.exe
+D:\Telerik2016\SDA\demos\10. Graphs\demos\TSUsingSourceRemoval\bin\Debug\TSUsingSourceRemoval.pdb
+D:\Telerik2016\SDA\demos\10. Graphs\demos\TSUsingSourceRemoval\obj\Debug\TSUsingSourceRemoval.exe
+D:\Telerik2016\SDA\demos\10. Graphs\demos\TSUsingSourceRemoval\obj\Debug\TSUsingSourceRemoval.pdb
