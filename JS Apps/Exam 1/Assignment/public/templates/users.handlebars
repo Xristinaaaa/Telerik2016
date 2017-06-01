@@ -1,0 +1,16 @@
+<div id="allUsers">
+    <ul class="users">
+        Users:
+        {{#each users}}
+            <h2>Username: {{username}}</h2>
+            <h3>{{usernameToLower}}</h3>
+            <li>
+                <h4>Materials</h4>
+                {{#userMaterials}}
+                    <span>Title: <strong>{{title}}</strong></span>        
+                    <span>Category: <strong>{{category}}</strong></span>
+                {{/userMaterials}}
+            </li>
+        {{/users}}
+    </ul>
+</div>

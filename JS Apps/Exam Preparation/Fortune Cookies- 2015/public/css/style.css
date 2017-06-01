@@ -1,0 +1,23 @@
+#page {
+    text-align: center;
+}
+
+#main-page {
+    text-align: center;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-block;
+}
+
+li {
+    padding: 5%;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+    color: cornflowerblue;
+}

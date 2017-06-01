@@ -1,0 +1,27 @@
+{
+  "name": "public",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Hristina Ilieva <xristina.i.ilieva@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Xristinaaaa/Telerik2016",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "navigo": "^3.0.0",
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "toastr": "^2.1.3"
+  },
+  "resolutions": {
+    "jquery": "^3.1.1"
+  }
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Good Mats</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+</head>
+
+<body>
+    <div id="root">
+        <header class="container">
+            <div class="row">
+                <h1 class="page-header col-md-6">
+                    Good Mats
+                </h1>
+                <form class="form-inline col-md-6" id="container-sign-in">
+                    <div class="form-group">
+                        <label class="sr-only" for="tb-username">Username</label>
+                        <input type="text" class="form-control" id="tb-username" placeholder="Username">
+                    </div>
+                    <div class="form-group">
+                        <label class="sr-only" for="tb-password">Password</label>
+                        <input type="password" class="form-control" id="tb-password" placeholder="Password">
+                    </div>
+                </form>
+                <form>
+                    <button id="btn-login" class="btn btn-default">Login</button>
+                    <button id="btn-register" class="btn btn-default">Register</button>
+                </form>
+                <form class="form-inline col-md-6" id="container-sign-out">
+                    <button id="btn-log-out" class="btn btn-default">Logout</button>
+                </form>
+            </div>
+            <nav class="navbar navbar-default row">
+                <ul class="nav navbar-nav col-md-8">
+                    <li><a href="#/home">Home</a></li>
+                    <li><a href="#/users">Users</a></li>
+                    <li><a href="#/materials">Materials</a></li>
+                    <li><a href="#/profile" class="profile">Profile</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div id="content">
+
+        </div>
+    </div>
+
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+
+    <script src="bower_components/navigo/lib/navigo.js"></script>
+    <script src="bower_components/handlebars/handlebars.js"></script>
+    
+    <script src="scripts/validator.js"></script>
+    <script src="scripts/template-loader.js"></script>
+    <script src="scripts/requester.js"></script>
+    <script src="scripts/data.js"></script>
+    <script src="scripts/controllers.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+<div id="allMaterials">
+    <div>
+        <input id="specific-search" class="form-control" placeholder="material">
+        <button id="btn-search" class="btn btn-default">Search</button>
+    </div>
+    <ul class="materials">
+        All materials:
+        {{#each materials}}
+            <h2>Title: {{title}}</h2>
+            <h3>Description: {{description}}</h3>
+            <p>Created on: {{createdOn}}</p>
+            <p>Rating: {{rating}}</p>
+            <ul>
+                <h4>Comments</h4>
+                {{#comment}}
+                    <li>
+                        <span>Text: <strong>{{text}}</strong></span>        
+                        <span>User: <strong>{{user.username}}</strong></span>
+                    </li>
+                {{/comment}}
+            </ul>
+            <ul>
+                <h4>Users</h4>
+                {{#user}}
+                    <li>
+                        <span>Title: <strong>{{title}}</strong></span>        
+                        <span>Category: <strong>{{category}}</strong></span>
+                    </li>
+                {{/user}}
+            </ul>
+        {{/users}}
+    </ul>
+</div>

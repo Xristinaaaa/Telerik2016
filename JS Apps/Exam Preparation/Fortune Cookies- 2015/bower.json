@@ -1,0 +1,22 @@
+{
+  "name": "Forture-Cookies-Sep-2015",
+  "version": "0.0.0",
+  "authors": [
+    "DonchoMinkov <donchominkov@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/Xristinaaaa/Telerik2016",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "toastr": "^2.1.3"
+  }
+}
